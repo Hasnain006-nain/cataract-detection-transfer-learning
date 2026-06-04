@@ -200,8 +200,8 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 👤 Author
 
 
-- Suyog Khanal  - [countylover7@gmail.com](mailto:countylover7@gmail.com) /br
-Hasnain Haider — [hhnain1006@gmail.com](mailto:hhnain1006@gmail.com)
+- Suyog Khanal  - [countylover7@gmail.com](mailto:countylover7@gmail.com) 
+- Hasnain Haider — [hhnain1006@gmail.com](mailto:hhnain1006@gmail.com)
 ---
 
 <div align="center"><sub>Built with ❤️ for medical AI research</sub></div>
