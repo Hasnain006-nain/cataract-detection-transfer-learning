@@ -200,7 +200,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 👤 Author
 
 **Hasnain** — [hhnain1006@gmail.com](mailto:hhnain1006@gmail.com)
-**Suyog Khanal ** - [countylover7@gmail.com](mailto:countylover7@gmail.com)
+-Suyog Khanal  - [countylover7@gmail.com](mailto:countylover7@gmail.com)
 ---
 
 <div align="center"><sub>Built with ❤️ for medical AI research</sub></div>
