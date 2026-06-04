@@ -36,6 +36,17 @@ Cataracts are the leading cause of blindness worldwide. Early automated detectio
 
 ---
 
+## 📦 Downloads
+
+| Resource | Link |
+|---|---|
+| 📂 Dataset (Train/Test Images) | [Google Drive — Dataset](https://drive.google.com/drive/folders/1WL2YAN5i1ZwMDb8UZiK7R0osNU_0yHlz?usp=sharing) |
+| 🏋️ Trained Model Weights (.h5 / .keras) | [Google Drive — Model Weights](https://drive.google.com/drive/folders/1HpAwOwoIPpltkMqSlmukdjiwzo6rRKro?usp=sharing) |
+
+> Model weights are too large for GitHub (19MB–231MB). Download them from Google Drive and place them in your `/content/drive/MyDrive/Cataract/` folder before running the notebooks.
+
+---
+
 ## 📊 Results
 
 ### Accuracy & Loss Comparison
@@ -162,11 +173,13 @@ cataract-detection-transfer-learning/
 
 ## ⚙️ How to Run
 
-1. Open any `.ipynb` notebook in Google Colab
-2. Mount Google Drive and set correct paths
-3. Run cells 0–5 (mount, imports, paths, datagen, iterators)
-4. **Skip** training cells — models already saved as `.h5`
-5. Run load_model → compile → evaluate → latency cells
+1. Download the dataset from the [Google Drive link](https://drive.google.com/drive/folders/1WL2YAN5i1ZwMDb8UZiK7R0osNU_0yHlz?usp=sharing) and place it in `/content/drive/MyDrive/Cataract/Data/`
+2. Download model weights from the [Google Drive link](https://drive.google.com/drive/folders/1HpAwOwoIPpltkMqSlmukdjiwzo6rRKro?usp=sharing) and place them in `/content/drive/MyDrive/Cataract/`
+3. Open any `.ipynb` notebook in Google Colab
+4. Mount Google Drive and set correct paths
+5. Run cells 0–5 (mount, imports, paths, datagen, iterators)
+6. **Skip** training cells — models already saved as `.h5`
+7. Run load_model → compile → evaluate → latency cells
 
 ---
 
