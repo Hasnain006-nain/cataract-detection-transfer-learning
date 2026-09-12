@@ -180,6 +180,18 @@ Use [`PAPER_ARTIFACT_MAP.md`](PAPER_ARTIFACT_MAP.md) to map each major paper tab
 
 ---
 
+## Code Notebooks
+
+The final research code notebooks are included in [`notebooks/`](notebooks/).
+
+| Notebook group | Contents |
+|---|---|
+| [`notebooks/training_models/`](notebooks/training_models/) | Model-specific clean-split training notebooks for MobileNetV2, DenseNet201, InceptionResNetV2, ResNet152V2, and Xception. |
+| [`notebooks/final_pipeline/`](notebooks/final_pipeline/) | Leakage control, independent verification, last-block fine-tuning, locked benchmark, statistical tests, Grad-CAM, ODIR zero-shot validation, TensorFlow Lite export, and deployment latency audit. |
+
+These notebooks are provided as research code. Full reruns require access to the original datasets and may require path adjustments for the user's local or cloud environment.
+
+---
 ## Reproducibility
 
 The repository provides final artifacts and verification records. It does not rerun full training from raw image data.
@@ -231,5 +243,6 @@ Email: countylover7@gmail.com
 Repository code and documentation are released under the MIT License unless otherwise stated.
 
 See [`LICENSE`](LICENSE) for details.
+
 
 
