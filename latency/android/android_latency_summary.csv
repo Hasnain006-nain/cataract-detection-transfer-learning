@@ -1,0 +1,2 @@
+device_manufacturer,device_model,android_version,android_sdk,model,model_sha256,runtime,delegate,threads,warmup_runs,measured_runs,mean_ms,median_ms,min_ms,max_ms,std_ms,p5_ms,p95_ms,input_condition
+Xiaomi,23053RN02A,15,35,MobileNetV2_LastBlock_float32.tflite,E98067D7BC8550190B2455894C826E7477D2775D8141C15BF6B7CB81B53C37E6,TensorFlow Lite Android Benchmark,XNNPACK CPU,4,10,100,25.9222,21.151,20.202,99.226,13.955,20.485,65.175,benchmark-tool randomized tensor input; model invocation only

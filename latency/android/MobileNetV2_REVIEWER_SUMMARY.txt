@@ -1,0 +1,39 @@
+MOBILE LATENCY BENCHMARK - FINAL RESULT
+
+Device Manufacturer: Xiaomi
+Device Model: 23053RN02A
+Android Version: 15
+Android SDK: 35
+CPU ABI: arm64-v8a
+
+Model: MobileNetV2_LastBlock_float32.tflite
+Model Size: 10.4003 MB
+SHA256: E98067D7BC8550190B2455894C826E7477D2775D8141C15BF6B7CB81B53C37E6
+
+Runtime: TensorFlow Lite Android Benchmark
+Delegate: XNNPACK CPU
+CPU Threads: 4
+GPU Delegate: Disabled
+NNAPI Delegate: Disabled
+Minimum Warm-up Runs Requested: 10
+Actual Warm-up Iterations: 13
+Measured Inference Runs: 100
+
+INPUT CONDITION
+Benchmark-tool randomized tensor input was used.
+No clinical image files were supplied to the benchmark.
+Reported latency therefore represents model inference only.
+
+RESULTS
+Average Inference Latency: 25.9222 ms
+Median Inference Latency: 21.151 ms
+Minimum Latency: 20.202 ms
+Maximum Latency: 99.226 ms
+Standard Deviation: 13.955 ms
+5th Percentile: 20.485 ms
+95th Percentile: 65.175 ms
+First Inference: 44.712 ms
+Initialization Time: 158.799 ms
+
+Approximate Runtime Memory Delta: 60.7148 MB
+GPU Synchronization: Not applicable because GPU delegate was disabled.

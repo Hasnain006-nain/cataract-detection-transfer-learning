@@ -1,0 +1,2 @@
+dataset_handle,kagglehub_returned_root,raw_eligible_annotation_rows,unique_eligible_images,resolved_unique_images,coverage,dominant_source_rank,dominant_source
+andrewmvd/ocular-disease-recognition-odir5k,/kaggle/input/ocular-disease-recognition-odir5k,6269,3265,3265,1.0,0,Kaggle ODIR preprocessed_images

@@ -1,0 +1,3 @@
+Recommended deployment checkpoint: LastBlock
+
+The last-block fine-tuned MobileNetV2 provides higher locked clinical and three-class accuracy while retaining the same MobileNetV2 deployment architecture, with no material TFLite size or controlled-latency penalty.

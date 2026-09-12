@@ -1,0 +1,768 @@
+path_a,split_a,class_a,path_b,split_b,class_b,phash_distance
+Train/Cataract/cat_0_6632.jpg,Train,Cataract,Validation/Cataract/cat_0_1702.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_6957.jpg,Train,Cataract,Validation/Cataract/cat_0_6021.jpg,Validation,Cataract,10
+Train/Cataract/cat_0_7314.jpg,Train,Cataract,Validation/Not Eye/27e01a9780.jpg,Validation,Not Eye,12
+Train/Cataract/cat_0_7404.jpg,Train,Cataract,Validation/Cataract/cat_0_5715.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_7321.jpg,Train,Cataract,Validation/Cataract/cat_0_535.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_7337.jpg,Train,Cataract,Validation/Cataract/cat_0_2330.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_7486.jpg,Train,Cataract,Validation/Cataract/cat_0_7146.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_7500.jpg,Train,Cataract,Validation/Normal/cat_0_7045.jpg,Validation,Normal,12
+Train/Cataract/cat_0_7679.jpg,Train,Cataract,Validation/Cataract/cat_0_4062.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_7679.jpg,Train,Cataract,Validation/Normal/cat_0_2295.jpg,Validation,Normal,12
+Train/Cataract/cat_0_7905.jpg,Train,Cataract,Validation/Cataract/cat_0_6809.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_7894.jpg,Train,Cataract,Validation/Cataract/cat_0_2086.jpg,Validation,Cataract,10
+Train/Cataract/cat_0_8178.jpg,Train,Cataract,Validation/Cataract/cat_0_2380.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_8178.jpg,Train,Cataract,Validation/Cataract/cat_0_4574.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_8239.jpg,Train,Cataract,Validation/Not Eye/6dce9407dc.jpg,Validation,Not Eye,12
+Train/Cataract/cat_0_8273.jpg,Train,Cataract,Validation/Cataract/cat_0_4998.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_8452.jpg,Train,Cataract,Validation/Cataract/cat_0_5520.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_8538.jpg,Train,Cataract,Validation/Not Eye/6cac88ac19.jpg,Validation,Not Eye,12
+Train/Cataract/cat_0_8697.jpg,Train,Cataract,Validation/Cataract/cat_0_3513.jpg,Validation,Cataract,10
+Train/Cataract/cat_0_8780.jpg,Train,Cataract,Validation/Normal/cat_0_8870.jpg,Validation,Normal,12
+Train/Cataract/cat_0_8775.jpg,Train,Cataract,Validation/Cataract/cat_0_6206.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_8832.jpg,Train,Cataract,Validation/Normal/cat_0_8118.jpg,Validation,Normal,10
+Train/Cataract/cat_0_8779.jpg,Train,Cataract,Validation/Cataract/cat_0_6624.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_9180.jpg,Train,Cataract,Validation/Cataract/cat_0_1175.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_9245.jpg,Train,Cataract,Validation/Not Eye/8b28b8aff6.jpg,Validation,Not Eye,12
+Train/Cataract/cat_0_9318.jpg,Train,Cataract,Validation/Cataract/cat_0_3396.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_9525.jpg,Train,Cataract,Validation/Cataract/cat_0_4072.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_9478.jpg,Train,Cataract,Validation/Cataract/cat_0_8972.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_9795.jpg,Train,Cataract,Validation/Cataract/cat_0_6019.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_9642.jpg,Train,Cataract,Validation/Cataract/cat_0_6687.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_9689.jpg,Train,Cataract,Validation/Not Eye/9e2c93a77c.jpg,Validation,Not Eye,12
+Train/Cataract/cat_0_9788.jpg,Train,Cataract,Validation/Not Eye/3a49809912.jpg,Validation,Not Eye,12
+Train/Cataract/cat_0_9867.jpg,Train,Cataract,Validation/Cataract/cat_0_7433.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_3533.jpg,Train,Cataract,Validation/Normal/cat_0_3200.jpg,Validation,Normal,12
+Train/Cataract/cat_0_3365.jpg,Train,Cataract,Validation/Normal/cat_0_2892.jpg,Validation,Normal,12
+Train/Cataract/cat_0_3453.jpg,Train,Cataract,Validation/Cataract/cat_0_5209.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_3708.jpg,Train,Cataract,Validation/Normal/cat_0_5640.jpg,Validation,Normal,10
+Train/Cataract/cat_0_3664.jpg,Train,Cataract,Validation/Normal/cat_0_112.jpg,Validation,Normal,12
+Train/Cataract/cat_0_3718.jpg,Train,Cataract,Validation/Normal/cat_0_7306.jpg,Validation,Normal,12
+Train/Cataract/cat_0_3661.jpg,Train,Cataract,Validation/Cataract/cat_0_2830.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_3622.jpg,Train,Cataract,Validation/Not Eye/7e21288f88.jpg,Validation,Not Eye,12
+Train/Cataract/cat_0_3635.jpg,Train,Cataract,Validation/Normal/cat_0_7374.jpg,Validation,Normal,10
+Train/Cataract/cat_0_3907.jpg,Train,Cataract,Validation/Normal/cat_0_209.jpg,Validation,Normal,12
+Train/Cataract/cat_0_3782.jpg,Train,Cataract,Validation/Cataract/cat_0_6884.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_3899.jpg,Train,Cataract,Validation/Cataract/cat_0_477.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_4163.jpg,Train,Cataract,Validation/Cataract/cat_0_1837.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_4046.jpg,Train,Cataract,Validation/Normal/cat_0_8636.jpg,Validation,Normal,12
+Train/Cataract/cat_0_4126.jpg,Train,Cataract,Validation/Normal/cat_0_8176.jpg,Validation,Normal,12
+Train/Cataract/cat_0_4248.jpg,Train,Cataract,Validation/Not Eye/05d97dc66c.jpg,Validation,Not Eye,12
+Train/Cataract/cat_0_4317.jpg,Train,Cataract,Validation/Cataract/cat_0_477.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_4369.jpg,Train,Cataract,Validation/Normal/cat_0_174.jpg,Validation,Normal,12
+Train/Cataract/cat_0_4369.jpg,Train,Cataract,Validation/Not Eye/3cd6c002ea.jpg,Validation,Not Eye,12
+Train/Cataract/cat_0_4442.jpg,Train,Cataract,Validation/Normal/cat_0_4847.jpg,Validation,Normal,12
+Train/Cataract/cat_0_4393.jpg,Train,Cataract,Validation/Cataract/cat_0_5206.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_4393.jpg,Train,Cataract,Validation/Normal/cat_0_9523.jpg,Validation,Normal,12
+Train/Cataract/cat_0_4428.jpg,Train,Cataract,Validation/Cataract/cat_0_7135.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_4691.jpg,Train,Cataract,Validation/Cataract/cat_0_9563.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_4589.jpg,Train,Cataract,Validation/Cataract/cat_0_4739.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_4583.jpg,Train,Cataract,Validation/Cataract/cat_0_6424.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_4596.jpg,Train,Cataract,Validation/Normal/cat_0_4931.jpg,Validation,Normal,12
+Train/Cataract/cat_0_4939.jpg,Train,Cataract,Validation/Normal/cat_0_664.jpg,Validation,Normal,12
+Train/Cataract/cat_0_4779.jpg,Train,Cataract,Validation/Cataract/cat_0_634.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_5010.jpg,Train,Cataract,Validation/Normal/cat_0_6508.jpg,Validation,Normal,12
+Train/Cataract/cat_0_5031.jpg,Train,Cataract,Validation/Normal/cat_0_6483.jpg,Validation,Normal,10
+Train/Cataract/cat_0_5298.jpg,Train,Cataract,Validation/Cataract/cat_0_9843.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_5303.jpg,Train,Cataract,Validation/Cataract/cat_0_8763.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_5352.jpg,Train,Cataract,Validation/Cataract/cat_0_6899.jpg,Validation,Cataract,10
+Train/Cataract/cat_0_5458.jpg,Train,Cataract,Validation/Not Eye/087ee9b72f.jpg,Validation,Not Eye,12
+Train/Cataract/cat_0_5636.jpg,Train,Cataract,Validation/Cataract/cat_0_3821.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_5791.jpg,Train,Cataract,Validation/Normal/cat_0_9181.jpg,Validation,Normal,12
+Train/Cataract/cat_0_5942.jpg,Train,Cataract,Validation/Normal/cat_0_8176.jpg,Validation,Normal,10
+Train/Cataract/cat_0_6031.jpg,Train,Cataract,Validation/Cataract/cat_0_1719.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_6028.jpg,Train,Cataract,Validation/Cataract/cat_0_6021.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_6162.jpg,Train,Cataract,Validation/Cataract/cat_0_7904.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_6184.jpg,Train,Cataract,Validation/Normal/cat_0_443.jpg,Validation,Normal,12
+Train/Cataract/cat_0_6405.jpg,Train,Cataract,Validation/Normal/cat_0_9684.jpg,Validation,Normal,12
+Train/Cataract/cat_0_6306.jpg,Train,Cataract,Validation/Cataract/cat_0_3358.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_6284.jpg,Train,Cataract,Validation/Cataract/cat_0_5120.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_6411.jpg,Train,Cataract,Validation/Cataract/cat_0_8635.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_104.jpg,Train,Cataract,Validation/Cataract/cat_0_4811.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_101.jpg,Train,Cataract,Validation/Cataract/cat_0_4137.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_101.jpg,Train,Cataract,Validation/Not Eye/6db125270c.jpg,Validation,Not Eye,10
+Train/Cataract/cat_0_10.jpg,Train,Cataract,Validation/Cataract/cat_0_5679.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_115.jpg,Train,Cataract,Validation/Cataract/cat_0_6505.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_1376.jpg,Train,Cataract,Validation/Cataract/cat_0_4086.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_1422.jpg,Train,Cataract,Validation/Cataract/cat_0_9422.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_1558.jpg,Train,Cataract,Validation/Cataract/cat_0_3576.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_1589.jpg,Train,Cataract,Validation/Cataract/cat_0_7438.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_1522.jpg,Train,Cataract,Validation/Cataract/cat_0_6206.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_167.jpg,Train,Cataract,Validation/Cataract/cat_0_2330.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_177.jpg,Train,Cataract,Validation/Normal/cat_0_5412.jpg,Validation,Normal,12
+Train/Cataract/cat_0_1743.jpg,Train,Cataract,Validation/Normal/cat_0_1874.jpg,Validation,Normal,12
+Train/Cataract/cat_0_232.jpg,Train,Cataract,Validation/Normal/cat_0_948.jpg,Validation,Normal,12
+Train/Cataract/cat_0_329.jpg,Train,Cataract,Validation/Cataract/cat_0_5361.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_601.jpg,Train,Cataract,Validation/Normal/cat_0_9235.jpg,Validation,Normal,12
+Train/Cataract/cat_0_458.jpg,Train,Cataract,Validation/Normal/cat_0_7143.jpg,Validation,Normal,12
+Train/Cataract/cat_0_571.jpg,Train,Cataract,Validation/Cataract/cat_0_622.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_731.jpg,Train,Cataract,Validation/Cataract/cat_0_4072.jpg,Validation,Cataract,10
+Train/Cataract/cat_0_69.jpg,Train,Cataract,Validation/Cataract/cat_0_6644.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_75.jpg,Train,Cataract,Validation/Cataract/cat_0_2611.jpg,Validation,Cataract,10
+Train/Cataract/cat_0_739.jpg,Train,Cataract,Validation/Cataract/cat_0_3672.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_1913.jpg,Train,Cataract,Validation/Normal/cat_0_9851.jpg,Validation,Normal,12
+Train/Cataract/cat_0_1977.jpg,Train,Cataract,Validation/Cataract/cat_0_7410.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_2411.jpg,Train,Cataract,Validation/Normal/cat_0_5183.jpg,Validation,Normal,12
+Train/Cataract/cat_0_2271.jpg,Train,Cataract,Validation/Cataract/cat_0_6318.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_2301.jpg,Train,Cataract,Validation/Not Eye/009bf8eb7d.jpg,Validation,Not Eye,12
+Train/Cataract/cat_0_2345.jpg,Train,Cataract,Validation/Cataract/cat_0_3576.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_2615.jpg,Train,Cataract,Validation/Cataract/cat_0_6517.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_2427.jpg,Train,Cataract,Validation/Cataract/cat_0_6572.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_2835.jpg,Train,Cataract,Validation/Cataract/cat_0_6513.jpg,Validation,Cataract,10
+Train/Cataract/cat_0_2948.jpg,Train,Cataract,Validation/Cataract/cat_0_5921.jpg,Validation,Cataract,12
+Train/Cataract/cat_0_2890.jpg,Train,Cataract,Validation/Cataract/cat_0_4256.jpg,Validation,Cataract,10
+Train/Cataract/cat_0_3319.jpg,Train,Cataract,Validation/Normal/cat_0_6801.jpg,Validation,Normal,12
+Train/Cataract/cat_0_3320.jpg,Train,Cataract,Validation/Normal/cat_0_8299.jpg,Validation,Normal,12
+Train/Normal/cat_0_6969.jpg,Train,Normal,Validation/Normal/cat_0_4709.jpg,Validation,Normal,12
+Train/Normal/cat_0_6913.jpg,Train,Normal,Validation/Normal/cat_0_822.jpg,Validation,Normal,12
+Train/Normal/cat_0_6895.jpg,Train,Normal,Validation/Normal/cat_0_6288.jpg,Validation,Normal,12
+Train/Normal/cat_0_7178.jpg,Train,Normal,Validation/Normal/cat_0_7714.jpg,Validation,Normal,12
+Train/Normal/cat_0_7073.jpg,Train,Normal,Validation/Normal/cat_0_9657.jpg,Validation,Normal,12
+Train/Normal/cat_0_7135.jpg,Train,Normal,Validation/Normal/cat_0_6442.jpg,Validation,Normal,10
+Train/Normal/cat_0_7131.jpg,Train,Normal,Validation/Cataract/cat_0_3358.jpg,Validation,Cataract,12
+Train/Normal/cat_0_7047.jpg,Train,Normal,Validation/Normal/cat_0_1023.jpg,Validation,Normal,12
+Train/Normal/cat_0_7160.jpg,Train,Normal,Validation/Normal/cat_0_3485.jpg,Validation,Normal,12
+Train/Normal/cat_0_7319.jpg,Train,Normal,Validation/Cataract/cat_0_3378.jpg,Validation,Cataract,12
+Train/Normal/cat_0_7391.jpg,Train,Normal,Validation/Normal/cat_0_9181.jpg,Validation,Normal,12
+Train/Normal/cat_0_7413.jpg,Train,Normal,Validation/Normal/cat_0_2305.jpg,Validation,Normal,12
+Train/Normal/cat_0_7515.jpg,Train,Normal,Validation/Normal/cat_0_2874.jpg,Validation,Normal,8
+Train/Normal/cat_0_7515.jpg,Train,Normal,Validation/Normal/cat_0_8435.jpg,Validation,Normal,12
+Train/Normal/cat_0_7579.jpg,Train,Normal,Validation/Normal/cat_0_6801.jpg,Validation,Normal,12
+Train/Normal/cat_0_7735.jpg,Train,Normal,Validation/Normal/cat_0_5640.jpg,Validation,Normal,12
+Train/Normal/cat_0_7787.jpg,Train,Normal,Validation/Not Eye/1ae35eed7d.jpg,Validation,Not Eye,12
+Train/Normal/cat_0_7910.jpg,Train,Normal,Validation/Normal/cat_0_948.jpg,Validation,Normal,12
+Train/Normal/cat_0_7877.jpg,Train,Normal,Validation/Normal/cat_0_6041.jpg,Validation,Normal,12
+Train/Normal/cat_0_7877.jpg,Train,Normal,Validation/Normal/cat_0_8711.jpg,Validation,Normal,12
+Train/Normal/cat_0_7902.jpg,Train,Normal,Validation/Normal/cat_0_5575.jpg,Validation,Normal,12
+Train/Normal/cat_0_7940.jpg,Train,Normal,Validation/Cataract/cat_0_5689.jpg,Validation,Cataract,10
+Train/Normal/cat_0_7940.jpg,Train,Normal,Validation/Normal/cat_0_5433.jpg,Validation,Normal,12
+Train/Normal/cat_0_8042.jpg,Train,Normal,Validation/Normal/cat_0_6164.jpg,Validation,Normal,12
+Train/Normal/cat_0_8077.jpg,Train,Normal,Validation/Normal/cat_0_707.jpg,Validation,Normal,10
+Train/Normal/cat_0_8054.jpg,Train,Normal,Validation/Normal/cat_0_5591.jpg,Validation,Normal,12
+Train/Normal/cat_0_8016.jpg,Train,Normal,Validation/Normal/cat_0_6991.jpg,Validation,Normal,12
+Train/Normal/cat_0_8127.jpg,Train,Normal,Validation/Cataract/cat_0_8770.jpg,Validation,Cataract,12
+Train/Normal/cat_0_8312.jpg,Train,Normal,Validation/Cataract/cat_0_361.jpg,Validation,Cataract,12
+Train/Normal/cat_0_8259.jpg,Train,Normal,Validation/Normal/cat_0_2206.jpg,Validation,Normal,12
+Train/Normal/cat_0_8587.jpg,Train,Normal,Validation/Not Eye/09d6ac553d.jpg,Validation,Not Eye,12
+Train/Normal/cat_0_8860.jpg,Train,Normal,Validation/Cataract/cat_0_4322.jpg,Validation,Cataract,12
+Train/Normal/cat_0_8757.jpg,Train,Normal,Validation/Normal/cat_0_6191.jpg,Validation,Normal,12
+Train/Normal/cat_0_8771.jpg,Train,Normal,Validation/Normal/cat_0_8104.jpg,Validation,Normal,10
+Train/Normal/cat_0_9022.jpg,Train,Normal,Validation/Normal/cat_0_425.jpg,Validation,Normal,12
+Train/Normal/cat_0_9022.jpg,Train,Normal,Validation/Normal/cat_0_5412.jpg,Validation,Normal,12
+Train/Normal/cat_0_9378.jpg,Train,Normal,Validation/Normal/cat_0_174.jpg,Validation,Normal,12
+Train/Normal/cat_0_9382.jpg,Train,Normal,Validation/Cataract/cat_0_2566.jpg,Validation,Cataract,12
+Train/Normal/cat_0_9452.jpg,Train,Normal,Validation/Normal/cat_0_7334.jpg,Validation,Normal,12
+Train/Normal/cat_0_9865.jpg,Train,Normal,Validation/Normal/cat_0_1957.jpg,Validation,Normal,12
+Train/Normal/cat_0_9868.jpg,Train,Normal,Validation/Normal/cat_0_4214.jpg,Validation,Normal,12
+Train/Normal/cat_0_9869.jpg,Train,Normal,Validation/Normal/cat_0_311.jpg,Validation,Normal,12
+Train/Normal/cat_0_9869.jpg,Train,Normal,Validation/Normal/cat_0_755.jpg,Validation,Normal,12
+Train/Normal/cat_0_9980.jpg,Train,Normal,Validation/Cataract/cat_0_1726.jpg,Validation,Cataract,10
+Train/Normal/cat_0_4130.jpg,Train,Normal,Validation/Normal/cat_0_4673.jpg,Validation,Normal,12
+Train/Normal/cat_0_4212.jpg,Train,Normal,Validation/Normal/cat_0_1267.jpg,Validation,Normal,12
+Train/Normal/cat_0_4209.jpg,Train,Normal,Validation/Cataract/cat_0_6899.jpg,Validation,Cataract,10
+Train/Normal/cat_0_4345.jpg,Train,Normal,Validation/Normal/cat_0_2672.jpg,Validation,Normal,12
+Train/Normal/cat_0_4308.jpg,Train,Normal,Validation/Normal/cat_0_3502.jpg,Validation,Normal,10
+Train/Normal/cat_0_4308.jpg,Train,Normal,Validation/Normal/cat_0_7724.jpg,Validation,Normal,12
+Train/Normal/cat_0_4524.jpg,Train,Normal,Validation/Normal/cat_0_5640.jpg,Validation,Normal,12
+Train/Normal/cat_0_4425.jpg,Train,Normal,Validation/Cataract/cat_0_1929.jpg,Validation,Cataract,12
+Train/Normal/cat_0_4648.jpg,Train,Normal,Validation/Normal/cat_0_3814.jpg,Validation,Normal,12
+Train/Normal/cat_0_4549.jpg,Train,Normal,Validation/Normal/cat_0_2892.jpg,Validation,Normal,12
+Train/Normal/cat_0_4663.jpg,Train,Normal,Validation/Cataract/cat_0_3358.jpg,Validation,Cataract,12
+Train/Normal/cat_0_4829.jpg,Train,Normal,Validation/Normal/cat_0_5633.jpg,Validation,Normal,10
+Train/Normal/cat_0_4836.jpg,Train,Normal,Validation/Normal/cat_0_9851.jpg,Validation,Normal,12
+Train/Normal/cat_0_5025.jpg,Train,Normal,Validation/Cataract/cat_0_2448.jpg,Validation,Cataract,12
+Train/Normal/cat_0_4974.jpg,Train,Normal,Validation/Normal/cat_0_2874.jpg,Validation,Normal,12
+Train/Normal/cat_0_4991.jpg,Train,Normal,Validation/Normal/cat_0_9949.jpg,Validation,Normal,12
+Train/Normal/cat_0_5128.jpg,Train,Normal,Validation/Not Eye/0d7ce09f3a.jpg,Validation,Not Eye,12
+Train/Normal/cat_0_5328.jpg,Train,Normal,Validation/Normal/cat_0_5123.jpg,Validation,Normal,12
+Train/Normal/cat_0_5271.jpg,Train,Normal,Validation/Normal/cat_0_1397.jpg,Validation,Normal,12
+Train/Normal/cat_0_5525.jpg,Train,Normal,Validation/Normal/cat_0_6041.jpg,Validation,Normal,12
+Train/Normal/cat_0_5712.jpg,Train,Normal,Validation/Normal/cat_0_5942.jpg,Validation,Normal,12
+Train/Normal/cat_0_5641.jpg,Train,Normal,Validation/Cataract/cat_0_5689.jpg,Validation,Cataract,12
+Train/Normal/cat_0_5866.jpg,Train,Normal,Validation/Normal/cat_0_6191.jpg,Validation,Normal,12
+Train/Normal/cat_0_5819.jpg,Train,Normal,Validation/Cataract/cat_0_4937.jpg,Validation,Cataract,12
+Train/Normal/cat_0_6086.jpg,Train,Normal,Validation/Cataract/cat_0_3474.jpg,Validation,Cataract,12
+Train/Normal/cat_0_6086.jpg,Train,Normal,Validation/Not Eye/07e5754946.jpg,Validation,Not Eye,12
+Train/Normal/cat_0_5993.jpg,Train,Normal,Validation/Cataract/cat_0_4644.jpg,Validation,Cataract,10
+Train/Normal/cat_0_6300.jpg,Train,Normal,Validation/Cataract/cat_0_269.jpg,Validation,Cataract,12
+Train/Normal/cat_0_6400.jpg,Train,Normal,Validation/Normal/cat_0_868.jpg,Validation,Normal,10
+Train/Normal/cat_0_6523.jpg,Train,Normal,Validation/Cataract/cat_0_4842.jpg,Validation,Cataract,12
+Train/Normal/cat_0_6647.jpg,Train,Normal,Validation/Normal/cat_0_3502.jpg,Validation,Normal,12
+Train/Normal/cat_0_6647.jpg,Train,Normal,Validation/Normal/cat_0_4709.jpg,Validation,Normal,12
+Train/Normal/cat_0_6651.jpg,Train,Normal,Validation/Normal/cat_0_8338.jpg,Validation,Normal,12
+Train/Normal/cat_0_6513.jpg,Train,Normal,Validation/Normal/cat_0_4673.jpg,Validation,Normal,12
+Train/Normal/cat_0_6638.jpg,Train,Normal,Validation/Normal/cat_0_1964.jpg,Validation,Normal,10
+Train/Normal/cat_0_6638.jpg,Train,Normal,Validation/Normal/cat_0_9893.jpg,Validation,Normal,12
+Train/Normal/cat_0_6725.jpg,Train,Normal,Validation/Normal/cat_0_1453.jpg,Validation,Normal,12
+Train/Normal/cat_0_6725.jpg,Train,Normal,Validation/Normal/cat_0_8299.jpg,Validation,Normal,12
+Train/Normal/cat_0_6725.jpg,Train,Normal,Validation/Normal/cat_0_8551.jpg,Validation,Normal,12
+Train/Normal/cat_0_6707.jpg,Train,Normal,Validation/Normal/cat_0_9657.jpg,Validation,Normal,12
+Train/Normal/cat_0_6872.jpg,Train,Normal,Validation/Normal/cat_0_8445.jpg,Validation,Normal,12
+Train/Normal/cat_0_6872.jpg,Train,Normal,Validation/Normal/cat_0_9038.jpg,Validation,Normal,12
+Train/Normal/cat_0_6872.jpg,Train,Normal,Validation/Normal/cat_0_9064.jpg,Validation,Normal,12
+Train/Normal/cat_0_6826.jpg,Train,Normal,Validation/Cataract/cat_0_5722.jpg,Validation,Cataract,12
+Train/Normal/cat_0_491.jpg,Train,Normal,Validation/Cataract/cat_0_2402.jpg,Validation,Cataract,12
+Train/Normal/cat_0_669.jpg,Train,Normal,Validation/Normal/cat_0_3440.jpg,Validation,Normal,12
+Train/Normal/cat_0_748.jpg,Train,Normal,Validation/Normal/cat_0_5807.jpg,Validation,Normal,10
+Train/Normal/cat_0_805.jpg,Train,Normal,Validation/Normal/cat_0_6483.jpg,Validation,Normal,12
+Train/Normal/cat_0_816.jpg,Train,Normal,Validation/Normal/cat_0_5963.jpg,Validation,Normal,12
+Train/Normal/cat_0_69.jpg,Train,Normal,Validation/Normal/cat_0_4368.jpg,Validation,Normal,12
+Train/Normal/cat_0_991.jpg,Train,Normal,Validation/Normal/cat_0_1023.jpg,Validation,Normal,10
+Train/Normal/cat_0_87.jpg,Train,Normal,Validation/Normal/cat_0_9570.jpg,Validation,Normal,12
+Train/Normal/cat_0_945.jpg,Train,Normal,Validation/Cataract/cat_0_9243.jpg,Validation,Cataract,12
+Train/Normal/cat_0_943.jpg,Train,Normal,Validation/Normal/cat_0_3913.jpg,Validation,Normal,10
+Train/Normal/cat_0_1591.jpg,Train,Normal,Validation/Normal/cat_0_1950.jpg,Validation,Normal,8
+Train/Normal/cat_0_1653.jpg,Train,Normal,Validation/Normal/cat_0_1009.jpg,Validation,Normal,12
+Train/Normal/cat_0_1818.jpg,Train,Normal,Validation/Cataract/cat_0_707.jpg,Validation,Cataract,12
+Train/Normal/cat_0_1979.jpg,Train,Normal,Validation/Normal/cat_0_1525.jpg,Validation,Normal,12
+Train/Normal/cat_0_1900.jpg,Train,Normal,Validation/Normal/cat_0_7128.jpg,Validation,Normal,12
+Train/Normal/cat_0_1893.jpg,Train,Normal,Validation/Normal/cat_0_5463.jpg,Validation,Normal,12
+Train/Normal/cat_0_2021.jpg,Train,Normal,Validation/Cataract/cat_0_5689.jpg,Validation,Cataract,12
+Train/Normal/cat_0_2074.jpg,Train,Normal,Validation/Normal/cat_0_6401.jpg,Validation,Normal,12
+Train/Normal/cat_0_2052.jpg,Train,Normal,Validation/Normal/cat_0_9570.jpg,Validation,Normal,10
+Train/Normal/cat_0_2035.jpg,Train,Normal,Validation/Cataract/cat_0_60.jpg,Validation,Cataract,12
+Train/Normal/cat_0_2177.jpg,Train,Normal,Validation/Normal/cat_0_7615.jpg,Validation,Normal,12
+Train/Normal/cat_0_2204.jpg,Train,Normal,Validation/Normal/cat_0_3045.jpg,Validation,Normal,10
+Train/Normal/cat_0_2358.jpg,Train,Normal,Validation/Normal/cat_0_4422.jpg,Validation,Normal,10
+Train/Normal/cat_0_2461.jpg,Train,Normal,Validation/Normal/cat_0_5239.jpg,Validation,Normal,12
+Train/Normal/cat_0_2356.jpg,Train,Normal,Validation/Normal/cat_0_8427.jpg,Validation,Normal,12
+Train/Normal/cat_0_2478.jpg,Train,Normal,Validation/Cataract/cat_0_68.jpg,Validation,Cataract,12
+Train/Normal/cat_0_2636.jpg,Train,Normal,Validation/Normal/cat_0_4070.jpg,Validation,Normal,12
+Train/Normal/cat_0_2636.jpg,Train,Normal,Validation/Normal/cat_0_5283.jpg,Validation,Normal,12
+Train/Normal/cat_0_2590.jpg,Train,Normal,Validation/Normal/cat_0_5412.jpg,Validation,Normal,10
+Train/Normal/cat_0_2729.jpg,Train,Normal,Validation/Normal/cat_0_6225.jpg,Validation,Normal,12
+Train/Normal/cat_0_2886.jpg,Train,Normal,Validation/Normal/cat_0_8517.jpg,Validation,Normal,12
+Train/Normal/cat_0_2889.jpg,Train,Normal,Validation/Cataract/cat_0_5811.jpg,Validation,Cataract,10
+Train/Normal/cat_0_2966.jpg,Train,Normal,Validation/Cataract/cat_0_367.jpg,Validation,Cataract,12
+Train/Normal/cat_0_2864.jpg,Train,Normal,Validation/Normal/cat_0_5759.jpg,Validation,Normal,12
+Train/Normal/cat_0_3245.jpg,Train,Normal,Validation/Normal/cat_0_694.jpg,Validation,Normal,12
+Train/Normal/cat_0_3613.jpg,Train,Normal,Validation/Normal/cat_0_6442.jpg,Validation,Normal,12
+Train/Normal/cat_0_3655.jpg,Train,Normal,Validation/Normal/cat_0_5911.jpg,Validation,Normal,12
+Train/Normal/cat_0_3738.jpg,Train,Normal,Validation/Normal/cat_0_5433.jpg,Validation,Normal,12
+Train/Normal/cat_0_1146.jpg,Train,Normal,Validation/Normal/cat_0_425.jpg,Validation,Normal,12
+Train/Normal/cat_0_1146.jpg,Train,Normal,Validation/Normal/cat_0_9851.jpg,Validation,Normal,12
+Train/Normal/cat_0_1110.jpg,Train,Normal,Validation/Cataract/cat_0_9537.jpg,Validation,Cataract,12
+Train/Normal/cat_0_1085.jpg,Train,Normal,Validation/Normal/cat_0_4516.jpg,Validation,Normal,12
+Train/Normal/cat_0_1247.jpg,Train,Normal,Validation/Cataract/cat_0_7978.jpg,Validation,Cataract,12
+Train/Normal/cat_0_1336.jpg,Train,Normal,Validation/Normal/cat_0_1869.jpg,Validation,Normal,12
+Train/Normal/cat_0_1193.jpg,Train,Normal,Validation/Normal/cat_0_7334.jpg,Validation,Normal,12
+Train/Normal/cat_0_1233.jpg,Train,Normal,Validation/Normal/cat_0_8299.jpg,Validation,Normal,12
+Train/Normal/cat_0_139.jpg,Train,Normal,Validation/Normal/cat_0_2492.jpg,Validation,Normal,12
+Train/Normal/cat_0_1467.jpg,Train,Normal,Validation/Normal/cat_0_8551.jpg,Validation,Normal,12
+Train/Normal/cat_0_1474.jpg,Train,Normal,Validation/Normal/cat_0_9851.jpg,Validation,Normal,12
+Train/Normal/cat_0_1407.jpg,Train,Normal,Validation/Normal/cat_0_9972.jpg,Validation,Normal,12
+Train/Normal/cat_0_1464.jpg,Train,Normal,Validation/Normal/cat_0_6041.jpg,Validation,Normal,10
+Train/Normal/cat_0_1350.jpg,Train,Normal,Validation/Normal/cat_0_6509.jpg,Validation,Normal,10
+Train/Normal/cat_0_265.jpg,Train,Normal,Validation/Normal/cat_0_9657.jpg,Validation,Normal,10
+Train/Normal/cat_0_346.jpg,Train,Normal,Validation/Normal/cat_0_1719.jpg,Validation,Normal,12
+Train/Normal/cat_0_379.jpg,Train,Normal,Validation/Not Eye/4c0e6406cd.jpg,Validation,Not Eye,10
+Train/Not Eye/60c3bd8f1c.jpg,Train,Not Eye,Validation/Not Eye/6db125270c.jpg,Validation,Not Eye,12
+Train/Not Eye/6b52791ff7.jpg,Train,Not Eye,Validation/Not Eye/1fa7404c7f.jpg,Validation,Not Eye,12
+Train/Not Eye/6b52791ff7.jpg,Train,Not Eye,Validation/Not Eye/8de570fe3d.jpg,Validation,Not Eye,12
+Train/Not Eye/6f2f154feb.jpg,Train,Not Eye,Validation/Normal/cat_0_4344.jpg,Validation,Normal,12
+Train/Not Eye/7b339108cf.jpg,Train,Not Eye,Validation/Not Eye/2f2f55df75.jpg,Validation,Not Eye,12
+Train/Not Eye/7b339108cf.jpg,Train,Not Eye,Validation/Not Eye/8aa5c06d27.jpg,Validation,Not Eye,12
+Train/Not Eye/84fca8a288.jpg,Train,Not Eye,Validation/Normal/cat_0_8873.jpg,Validation,Normal,12
+Train/Not Eye/8fbbb9f39c.jpg,Train,Not Eye,Validation/Not Eye/1b478b0569.jpg,Validation,Not Eye,12
+Train/Not Eye/8fbbb9f39c.jpg,Train,Not Eye,Validation/Not Eye/7cae18f93c.jpg,Validation,Not Eye,12
+Train/Not Eye/8fca9cc4f8.jpg,Train,Not Eye,Validation/Cataract/cat_0_5135.jpg,Validation,Cataract,12
+Train/Not Eye/9b8ab3b710.jpg,Train,Not Eye,Validation/Cataract/cat_0_365.jpg,Validation,Cataract,12
+Train/Not Eye/9cc9408339.jpg,Train,Not Eye,Validation/Cataract/cat_0_4588.jpg,Validation,Cataract,12
+Train/Not Eye/9c7feeacfa.jpg,Train,Not Eye,Validation/Not Eye/22e28ce6fa.jpg,Validation,Not Eye,12
+Train/Not Eye/05af7f1839.jpg,Train,Not Eye,Validation/Cataract/cat_0_1929.jpg,Validation,Cataract,12
+Train/Not Eye/04bb331fde.jpg,Train,Not Eye,Validation/Not Eye/1b4b8c3cc3.jpg,Validation,Not Eye,10
+Train/Not Eye/14d717de86.jpg,Train,Not Eye,Validation/Normal/cat_0_8445.jpg,Validation,Normal,12
+Train/Not Eye/21bda167f0.jpg,Train,Not Eye,Validation/Cataract/cat_0_5811.jpg,Validation,Cataract,12
+Train/Not Eye/21bda167f0.jpg,Train,Not Eye,Validation/Not Eye/07e5754946.jpg,Validation,Not Eye,12
+Train/Not Eye/20c9f27136.jpg,Train,Not Eye,Validation/Not Eye/6db125270c.jpg,Validation,Not Eye,12
+Train/Not Eye/25fa0b96dc.jpg,Train,Not Eye,Validation/Not Eye/6e7f3f72d1.jpg,Validation,Not Eye,12
+Train/Not Eye/34b82df490.jpg,Train,Not Eye,Validation/Not Eye/2bcf427424.jpg,Validation,Not Eye,10
+Train/Not Eye/34b82df490.jpg,Train,Not Eye,Validation/Not Eye/7bdfe4bb28.jpg,Validation,Not Eye,10
+Train/Not Eye/31dee7bbe6.jpg,Train,Not Eye,Validation/Not Eye/0da57d1b03.jpg,Validation,Not Eye,12
+Train/Not Eye/36ad77e8b4.jpg,Train,Not Eye,Validation/Normal/cat_0_1788.jpg,Validation,Normal,12
+Train/Not Eye/3b2081eeb1.jpg,Train,Not Eye,Validation/Not Eye/4a78619b2a.jpg,Validation,Not Eye,12
+Train/Not Eye/3c22b84dd9.jpg,Train,Not Eye,Validation/Not Eye/2cf21d246f.jpg,Validation,Not Eye,12
+Train/Not Eye/41d1af3d82.jpg,Train,Not Eye,Validation/Cataract/cat_0_6596.jpg,Validation,Cataract,12
+Train/Not Eye/4b092097f1.jpg,Train,Not Eye,Validation/Cataract/cat_0_4588.jpg,Validation,Cataract,12
+Train/Not Eye/4d14f4450e.jpg,Train,Not Eye,Validation/Not Eye/06d2073358.jpg,Validation,Not Eye,10
+Train/Not Eye/4d14f4450e.jpg,Train,Not Eye,Validation/Not Eye/6e04e0d816.jpg,Validation,Not Eye,10
+Train/Not Eye/5b489b49c5.jpg,Train,Not Eye,Validation/Cataract/cat_0_1929.jpg,Validation,Cataract,12
+Train/Not Eye/03c77ada4d.jpg,Train,Not Eye,Validation/Not Eye/2cf21d246f.jpg,Validation,Not Eye,12
+Train/Not Eye/0d17b0ce13.jpg,Train,Not Eye,Validation/Not Eye/37cdce03b6.jpg,Validation,Not Eye,12
+Train/Not Eye/1b5c37a3e8.jpg,Train,Not Eye,Validation/Not Eye/0fd5a0b47b.jpg,Validation,Not Eye,12
+Train/Not Eye/1d86e64250.jpg,Train,Not Eye,Validation/Not Eye/0fa205266b.jpg,Validation,Not Eye,12
+Train/Not Eye/2c6a595231.jpg,Train,Not Eye,Validation/Not Eye/4b82bdbdc1.jpg,Validation,Not Eye,12
+Train/Cataract/cat_0_6471.jpg,Train,Cataract,Test/Cataract/cat_0_7710.jpg,Test,Cataract,12
+Train/Cataract/cat_0_6679.jpg,Train,Cataract,Test/Cataract/cat_0_5886.jpg,Test,Cataract,12
+Train/Cataract/cat_0_6663.jpg,Train,Cataract,Test/Not Eye/03b0fedc34.jpg,Test,Not Eye,12
+Train/Cataract/cat_0_6663.jpg,Train,Cataract,Test/Not Eye/2f072aa30b.jpg,Test,Not Eye,12
+Train/Cataract/cat_0_6892.jpg,Train,Cataract,Test/Cataract/cat_0_7529.jpg,Test,Cataract,12
+Train/Cataract/cat_0_6875.jpg,Train,Cataract,Test/Normal/cat_0_6139.jpg,Test,Normal,12
+Train/Cataract/cat_0_6956.jpg,Train,Cataract,Test/Cataract/cat_0_8831.jpg,Test,Cataract,8
+Train/Cataract/cat_0_6979.jpg,Train,Cataract,Test/Cataract/cat_0_6674.jpg,Test,Cataract,10
+Train/Cataract/cat_0_7220.jpg,Train,Cataract,Test/Cataract/cat_0_1903.jpg,Test,Cataract,12
+Train/Cataract/cat_0_7258.jpg,Train,Cataract,Test/Cataract/cat_0_3218.jpg,Test,Cataract,12
+Train/Cataract/cat_0_7230.jpg,Train,Cataract,Test/Normal/cat_0_9015.jpg,Test,Normal,12
+Train/Cataract/cat_0_7383.jpg,Train,Cataract,Test/Cataract/cat_0_5727.jpg,Test,Cataract,12
+Train/Cataract/cat_0_7359.jpg,Train,Cataract,Test/Normal/cat_0_4358.jpg,Test,Normal,12
+Train/Cataract/cat_0_7304.jpg,Train,Cataract,Test/Cataract/cat_0_5809.jpg,Test,Cataract,12
+Train/Cataract/cat_0_7459.jpg,Train,Cataract,Test/Cataract/cat_0_8785.jpg,Test,Cataract,12
+Train/Cataract/cat_0_7543.jpg,Train,Cataract,Test/Normal/cat_0_5541.jpg,Test,Normal,12
+Train/Cataract/cat_0_7543.jpg,Train,Cataract,Test/Normal/cat_0_8359.jpg,Test,Normal,12
+Train/Cataract/cat_0_7721.jpg,Train,Cataract,Test/Normal/cat_0_5238.jpg,Test,Normal,12
+Train/Cataract/cat_0_7899.jpg,Train,Cataract,Test/Cataract/cat_0_2232.jpg,Test,Cataract,10
+Train/Cataract/cat_0_8103.jpg,Train,Cataract,Test/Normal/cat_0_7511.jpg,Test,Normal,12
+Train/Cataract/cat_0_8100.jpg,Train,Cataract,Test/Not Eye/6cb6e7b42f.jpg,Test,Not Eye,12
+Train/Cataract/cat_0_8096.jpg,Train,Cataract,Test/Cataract/cat_0_4378.jpg,Test,Cataract,12
+Train/Cataract/cat_0_8059.jpg,Train,Cataract,Test/Cataract/cat_0_3135.jpg,Test,Cataract,12
+Train/Cataract/cat_0_8087.jpg,Train,Cataract,Test/Cataract/cat_0_3700.jpg,Test,Cataract,12
+Train/Cataract/cat_0_8019.jpg,Train,Cataract,Test/Cataract/cat_0_6844.jpg,Test,Cataract,10
+Train/Cataract/cat_0_8166.jpg,Train,Cataract,Test/Cataract/cat_0_6963.jpg,Test,Cataract,8
+Train/Cataract/cat_0_8253.jpg,Train,Cataract,Test/Normal/cat_0_7291.jpg,Test,Normal,12
+Train/Cataract/cat_0_8523.jpg,Train,Cataract,Test/Cataract/cat_0_6232.jpg,Test,Cataract,12
+Train/Cataract/cat_0_8703.jpg,Train,Cataract,Test/Normal/cat_0_4552.jpg,Test,Normal,12
+Train/Cataract/cat_0_8722.jpg,Train,Cataract,Test/Cataract/cat_0_3406.jpg,Test,Cataract,12
+Train/Cataract/cat_0_8865.jpg,Train,Cataract,Test/Normal/cat_0_1641.jpg,Test,Normal,12
+Train/Cataract/cat_0_8775.jpg,Train,Cataract,Test/Cataract/cat_0_9736.jpg,Test,Cataract,8
+Train/Cataract/cat_0_8832.jpg,Train,Cataract,Test/Cataract/cat_0_5996.jpg,Test,Cataract,12
+Train/Cataract/cat_0_8778.jpg,Train,Cataract,Test/Cataract/cat_0_9935.jpg,Test,Cataract,10
+Train/Cataract/cat_0_8911.jpg,Train,Cataract,Test/Cataract/cat_0_3609.jpg,Test,Cataract,12
+Train/Cataract/cat_0_9189.jpg,Train,Cataract,Test/Cataract/cat_0_2410.jpg,Test,Cataract,12
+Train/Cataract/cat_0_9226.jpg,Train,Cataract,Test/Cataract/cat_0_4922.jpg,Test,Cataract,12
+Train/Cataract/cat_0_9290.jpg,Train,Cataract,Test/Cataract/cat_0_3247.jpg,Test,Cataract,12
+Train/Cataract/cat_0_9404.jpg,Train,Cataract,Test/Cataract/cat_0_5868.jpg,Test,Cataract,12
+Train/Cataract/cat_0_9627.jpg,Train,Cataract,Test/Cataract/cat_0_8257.jpg,Test,Cataract,12
+Train/Cataract/cat_0_9589.jpg,Train,Cataract,Test/Cataract/cat_0_5313.jpg,Test,Cataract,12
+Train/Cataract/cat_0_9735.jpg,Train,Cataract,Test/Cataract/cat_0_4267.jpg,Test,Cataract,10
+Train/Cataract/cat_0_9653.jpg,Train,Cataract,Test/Normal/cat_0_7130.jpg,Test,Normal,12
+Train/Cataract/cat_0_9684.jpg,Train,Cataract,Test/Cataract/cat_0_9302.jpg,Test,Cataract,12
+Train/Cataract/cat_0_9759.jpg,Train,Cataract,Test/Normal/cat_0_5141.jpg,Test,Normal,12
+Train/Cataract/cat_0_9885.jpg,Train,Cataract,Test/Normal/cat_0_3384.jpg,Test,Normal,12
+Train/Cataract/cat_0_9929.jpg,Train,Cataract,Test/Normal/cat_0_4716.jpg,Test,Normal,12
+Train/Cataract/cat_0_9853.jpg,Train,Cataract,Test/Normal/cat_0_7511.jpg,Test,Normal,12
+Train/Cataract/cat_0_3162.jpg,Train,Cataract,Test/Normal/cat_0_6139.jpg,Test,Normal,12
+Train/Cataract/cat_0_3543.jpg,Train,Cataract,Test/Cataract/cat_0_9811.jpg,Test,Cataract,12
+Train/Cataract/cat_0_3334.jpg,Train,Cataract,Test/Normal/cat_0_300.jpg,Test,Normal,12
+Train/Cataract/cat_0_3505.jpg,Train,Cataract,Test/Cataract/cat_0_8257.jpg,Test,Cataract,12
+Train/Cataract/cat_0_3520.jpg,Train,Cataract,Test/Cataract/cat_0_6556.jpg,Test,Cataract,12
+Train/Cataract/cat_0_3709.jpg,Train,Cataract,Test/Normal/cat_0_1005.jpg,Test,Normal,12
+Train/Cataract/cat_0_3586.jpg,Train,Cataract,Test/Normal/cat_0_620.jpg,Test,Normal,12
+Train/Cataract/cat_0_3702.jpg,Train,Cataract,Test/Normal/cat_0_3049.jpg,Test,Normal,12
+Train/Cataract/cat_0_3590.jpg,Train,Cataract,Test/Cataract/cat_0_6062.jpg,Test,Cataract,12
+Train/Cataract/cat_0_3688.jpg,Train,Cataract,Test/Cataract/cat_0_4321.jpg,Test,Cataract,8
+Train/Cataract/cat_0_3949.jpg,Train,Cataract,Test/Cataract/cat_0_8984.jpg,Test,Cataract,12
+Train/Cataract/cat_0_3931.jpg,Train,Cataract,Test/Cataract/cat_0_2232.jpg,Test,Cataract,12
+Train/Cataract/cat_0_4028.jpg,Train,Cataract,Test/Cataract/cat_0_3639.jpg,Test,Cataract,12
+Train/Cataract/cat_0_3966.jpg,Train,Cataract,Test/Not Eye/2fdc85da47.jpg,Test,Not Eye,12
+Train/Cataract/cat_0_4041.jpg,Train,Cataract,Test/Not Eye/48c588fa18.jpg,Test,Not Eye,12
+Train/Cataract/cat_0_4203.jpg,Train,Cataract,Test/Normal/cat_0_6918.jpg,Test,Normal,12
+Train/Cataract/cat_0_4251.jpg,Train,Cataract,Test/Normal/cat_0_5666.jpg,Test,Normal,12
+Train/Cataract/cat_0_4488.jpg,Train,Cataract,Test/Cataract/cat_0_5720.jpg,Test,Cataract,10
+Train/Cataract/cat_0_4429.jpg,Train,Cataract,Test/Normal/cat_0_7540.jpg,Test,Normal,12
+Train/Cataract/cat_0_4577.jpg,Train,Cataract,Test/Normal/cat_0_5225.jpg,Test,Normal,12
+Train/Cataract/cat_0_4433.jpg,Train,Cataract,Test/Normal/cat_0_5020.jpg,Test,Normal,10
+Train/Cataract/cat_0_4629.jpg,Train,Cataract,Test/Cataract/cat_0_1214.jpg,Test,Cataract,12
+Train/Cataract/cat_0_4691.jpg,Train,Cataract,Test/Normal/cat_0_9912.jpg,Test,Normal,12
+Train/Cataract/cat_0_4805.jpg,Train,Cataract,Test/Cataract/cat_0_211.jpg,Test,Cataract,12
+Train/Cataract/cat_0_4805.jpg,Train,Cataract,Test/Cataract/cat_0_1683.jpg,Test,Cataract,12
+Train/Cataract/cat_0_5260.jpg,Train,Cataract,Test/Cataract/cat_0_1468.jpg,Test,Cataract,12
+Train/Cataract/cat_0_5294.jpg,Train,Cataract,Test/Not Eye/33e8639efd.jpg,Test,Not Eye,12
+Train/Cataract/cat_0_5228.jpg,Train,Cataract,Test/Cataract/cat_0_1727.jpg,Test,Cataract,12
+Train/Cataract/cat_0_5219.jpg,Train,Cataract,Test/Normal/cat_0_2799.jpg,Test,Normal,12
+Train/Cataract/cat_0_5234.jpg,Train,Cataract,Test/Cataract/cat_0_9227.jpg,Test,Cataract,10
+Train/Cataract/cat_0_5352.jpg,Train,Cataract,Test/Normal/cat_0_6436.jpg,Test,Normal,10
+Train/Cataract/cat_0_5744.jpg,Train,Cataract,Test/Normal/cat_0_1638.jpg,Test,Normal,10
+Train/Cataract/cat_0_5782.jpg,Train,Cataract,Test/Cataract/cat_0_6739.jpg,Test,Cataract,12
+Train/Cataract/cat_0_5774.jpg,Train,Cataract,Test/Normal/cat_0_5293.jpg,Test,Normal,12
+Train/Cataract/cat_0_6086.jpg,Train,Cataract,Test/Cataract/cat_0_7876.jpg,Test,Cataract,8
+Train/Cataract/cat_0_6208.jpg,Train,Cataract,Test/Cataract/cat_0_5534.jpg,Test,Cataract,12
+Train/Cataract/cat_0_6261.jpg,Train,Cataract,Test/Cataract/cat_0_4857.jpg,Test,Cataract,12
+Train/Cataract/cat_0_6382.jpg,Train,Cataract,Test/Cataract/cat_0_8288.jpg,Test,Cataract,12
+Train/Cataract/cat_0_6455.jpg,Train,Cataract,Test/Cataract/cat_0_1718.jpg,Test,Cataract,10
+Train/Cataract/cat_0_1235.jpg,Train,Cataract,Test/Cataract/cat_0_3638.jpg,Test,Cataract,12
+Train/Cataract/cat_0_1450.jpg,Train,Cataract,Test/Not Eye/33ba3f2bfb.jpg,Test,Not Eye,10
+Train/Cataract/cat_0_137.jpg,Train,Cataract,Test/Not Eye/1e437595e6.jpg,Test,Not Eye,12
+Train/Cataract/cat_0_129.jpg,Train,Cataract,Test/Cataract/cat_0_5131.jpg,Test,Cataract,12
+Train/Cataract/cat_0_1564.jpg,Train,Cataract,Test/Cataract/cat_0_9913.jpg,Test,Cataract,12
+Train/Cataract/cat_0_1522.jpg,Train,Cataract,Test/Cataract/cat_0_9736.jpg,Test,Cataract,8
+Train/Cataract/cat_0_207.jpg,Train,Cataract,Test/Not Eye/240b4ed5ef.jpg,Test,Not Eye,12
+Train/Cataract/cat_0_1662.jpg,Train,Cataract,Test/Cataract/cat_0_2775.jpg,Test,Cataract,12
+Train/Cataract/cat_0_1674.jpg,Train,Cataract,Test/Normal/cat_0_3049.jpg,Test,Normal,12
+Train/Cataract/cat_0_219.jpg,Train,Cataract,Test/Cataract/cat_0_9719.jpg,Test,Cataract,10
+Train/Cataract/cat_0_298.jpg,Train,Cataract,Test/Normal/cat_0_1414.jpg,Test,Normal,12
+Train/Cataract/cat_0_243.jpg,Train,Cataract,Test/Normal/cat_0_1005.jpg,Test,Normal,12
+Train/Cataract/cat_0_458.jpg,Train,Cataract,Test/Normal/cat_0_9479.jpg,Test,Normal,12
+Train/Cataract/cat_0_583.jpg,Train,Cataract,Test/Normal/cat_0_6918.jpg,Test,Normal,12
+Train/Cataract/cat_0_610.jpg,Train,Cataract,Test/Cataract/cat_0_7374.jpg,Test,Cataract,12
+Train/Cataract/cat_0_819.jpg,Train,Cataract,Test/Normal/cat_0_4412.jpg,Test,Normal,12
+Train/Cataract/cat_0_677.jpg,Train,Cataract,Test/Cataract/cat_0_1483.jpg,Test,Cataract,12
+Train/Cataract/cat_0_931.jpg,Train,Cataract,Test/Normal/cat_0_4912.jpg,Test,Normal,12
+Train/Cataract/cat_0_837.jpg,Train,Cataract,Test/Cataract/cat_0_2186.jpg,Test,Cataract,12
+Train/Cataract/cat_0_843.jpg,Train,Cataract,Test/Normal/cat_0_1005.jpg,Test,Normal,12
+Train/Cataract/cat_0_1926.jpg,Train,Cataract,Test/Normal/cat_0_1154.jpg,Test,Normal,10
+Train/Cataract/cat_0_1868.jpg,Train,Cataract,Test/Cataract/cat_0_1611.jpg,Test,Cataract,12
+Train/Cataract/cat_0_1868.jpg,Train,Cataract,Test/Normal/cat_0_3517.jpg,Test,Normal,12
+Train/Cataract/cat_0_1788.jpg,Train,Cataract,Test/Cataract/cat_0_5208.jpg,Test,Cataract,12
+Train/Cataract/cat_0_2116.jpg,Train,Cataract,Test/Cataract/cat_0_8485.jpg,Test,Cataract,12
+Train/Cataract/cat_0_2030.jpg,Train,Cataract,Test/Cataract/cat_0_9736.jpg,Test,Cataract,12
+Train/Cataract/cat_0_2271.jpg,Train,Cataract,Test/Cataract/cat_0_6541.jpg,Test,Cataract,12
+Train/Cataract/cat_0_2194.jpg,Train,Cataract,Test/Cataract/cat_0_5996.jpg,Test,Cataract,10
+Train/Cataract/cat_0_2194.jpg,Train,Cataract,Test/Normal/cat_0_7783.jpg,Test,Normal,12
+Train/Cataract/cat_0_2336.jpg,Train,Cataract,Test/Normal/cat_0_1272.jpg,Test,Normal,12
+Train/Cataract/cat_0_2586.jpg,Train,Cataract,Test/Cataract/cat_0_4378.jpg,Test,Cataract,12
+Train/Cataract/cat_0_2839.jpg,Train,Cataract,Test/Not Eye/15ec744db6.jpg,Test,Not Eye,12
+Train/Cataract/cat_0_2800.jpg,Train,Cataract,Test/Cataract/cat_0_5720.jpg,Test,Cataract,12
+Train/Cataract/cat_0_2864.jpg,Train,Cataract,Test/Cataract/cat_0_9913.jpg,Test,Cataract,10
+Train/Cataract/cat_0_2864.jpg,Train,Cataract,Test/Normal/cat_0_4952.jpg,Test,Normal,10
+Train/Cataract/cat_0_2941.jpg,Train,Cataract,Test/Cataract/cat_0_7076.jpg,Test,Cataract,12
+Train/Cataract/cat_0_2966.jpg,Train,Cataract,Test/Normal/cat_0_3878.jpg,Test,Normal,12
+Train/Cataract/cat_0_3041.jpg,Train,Cataract,Test/Cataract/cat_0_8984.jpg,Test,Cataract,12
+Train/Cataract/cat_0_3036.jpg,Train,Cataract,Test/Cataract/cat_0_3531.jpg,Test,Cataract,12
+Train/Cataract/cat_0_2890.jpg,Train,Cataract,Test/Not Eye/7e1919ccbf.jpg,Test,Not Eye,12
+Train/Normal/cat_0_6913.jpg,Train,Normal,Test/Normal/cat_0_1041.jpg,Test,Normal,10
+Train/Normal/cat_0_6913.jpg,Train,Normal,Test/Normal/cat_0_8258.jpg,Test,Normal,12
+Train/Normal/cat_0_6895.jpg,Train,Normal,Test/Normal/cat_0_8669.jpg,Test,Normal,12
+Train/Normal/cat_0_7003.jpg,Train,Normal,Test/Normal/cat_0_3550.jpg,Test,Normal,12
+Train/Normal/cat_0_7196.jpg,Train,Normal,Test/Cataract/cat_0_8747.jpg,Test,Cataract,12
+Train/Normal/cat_0_7127.jpg,Train,Normal,Test/Normal/cat_0_6406.jpg,Test,Normal,12
+Train/Normal/cat_0_7149.jpg,Train,Normal,Test/Normal/cat_0_4611.jpg,Test,Normal,12
+Train/Normal/cat_0_7096.jpg,Train,Normal,Test/Normal/cat_0_8983.jpg,Test,Normal,12
+Train/Normal/cat_0_7188.jpg,Train,Normal,Test/Normal/cat_0_1041.jpg,Test,Normal,12
+Train/Normal/cat_0_7136.jpg,Train,Normal,Test/Normal/cat_0_9005.jpg,Test,Normal,12
+Train/Normal/cat_0_7097.jpg,Train,Normal,Test/Cataract/cat_0_7273.jpg,Test,Cataract,12
+Train/Normal/cat_0_7319.jpg,Train,Normal,Test/Normal/cat_0_7988.jpg,Test,Normal,12
+Train/Normal/cat_0_7305.jpg,Train,Normal,Test/Normal/cat_0_9582.jpg,Test,Normal,12
+Train/Normal/cat_0_7481.jpg,Train,Normal,Test/Normal/cat_0_1570.jpg,Test,Normal,12
+Train/Normal/cat_0_7481.jpg,Train,Normal,Test/Normal/cat_0_2055.jpg,Test,Normal,12
+Train/Normal/cat_0_7401.jpg,Train,Normal,Test/Cataract/cat_0_8881.jpg,Test,Cataract,12
+Train/Normal/cat_0_7418.jpg,Train,Normal,Test/Normal/cat_0_6918.jpg,Test,Normal,12
+Train/Normal/cat_0_7589.jpg,Train,Normal,Test/Normal/cat_0_666.jpg,Test,Normal,12
+Train/Normal/cat_0_7596.jpg,Train,Normal,Test/Normal/cat_0_9879.jpg,Test,Normal,12
+Train/Normal/cat_0_7757.jpg,Train,Normal,Test/Normal/cat_0_6761.jpg,Test,Normal,12
+Train/Normal/cat_0_7787.jpg,Train,Normal,Test/Normal/cat_0_9811.jpg,Test,Normal,12
+Train/Normal/cat_0_7691.jpg,Train,Normal,Test/Normal/cat_0_1030.jpg,Test,Normal,10
+Train/Normal/cat_0_7918.jpg,Train,Normal,Test/Normal/cat_0_9918.jpg,Test,Normal,12
+Train/Normal/cat_0_7835.jpg,Train,Normal,Test/Cataract/cat_0_5013.jpg,Test,Cataract,8
+Train/Normal/cat_0_7870.jpg,Train,Normal,Test/Normal/cat_0_4127.jpg,Test,Normal,12
+Train/Normal/cat_0_7940.jpg,Train,Normal,Test/Normal/cat_0_3833.jpg,Test,Normal,12
+Train/Normal/cat_0_7858.jpg,Train,Normal,Test/Cataract/cat_0_9635.jpg,Test,Cataract,12
+Train/Normal/cat_0_8055.jpg,Train,Normal,Test/Cataract/cat_0_9351.jpg,Test,Cataract,12
+Train/Normal/cat_0_8060.jpg,Train,Normal,Test/Normal/cat_0_2259.jpg,Test,Normal,12
+Train/Normal/cat_0_8339.jpg,Train,Normal,Test/Normal/cat_0_3150.jpg,Test,Normal,12
+Train/Normal/cat_0_8221.jpg,Train,Normal,Test/Normal/cat_0_3930.jpg,Test,Normal,12
+Train/Normal/cat_0_8239.jpg,Train,Normal,Test/Normal/cat_0_2227.jpg,Test,Normal,12
+Train/Normal/cat_0_8291.jpg,Train,Normal,Test/Cataract/cat_0_8221.jpg,Test,Cataract,10
+Train/Normal/cat_0_8201.jpg,Train,Normal,Test/Normal/cat_0_8991.jpg,Test,Normal,12
+Train/Normal/cat_0_8230.jpg,Train,Normal,Test/Normal/cat_0_2430.jpg,Test,Normal,12
+Train/Normal/cat_0_8411.jpg,Train,Normal,Test/Normal/cat_0_1041.jpg,Test,Normal,12
+Train/Normal/cat_0_8626.jpg,Train,Normal,Test/Normal/cat_0_1145.jpg,Test,Normal,12
+Train/Normal/cat_0_8768.jpg,Train,Normal,Test/Not Eye/2adf2bae9d.jpg,Test,Not Eye,12
+Train/Normal/cat_0_8817.jpg,Train,Normal,Test/Normal/cat_0_6485.jpg,Test,Normal,12
+Train/Normal/cat_0_8883.jpg,Train,Normal,Test/Normal/cat_0_7396.jpg,Test,Normal,10
+Train/Normal/cat_0_8883.jpg,Train,Normal,Test/Normal/cat_0_9862.jpg,Test,Normal,12
+Train/Normal/cat_0_8900.jpg,Train,Normal,Test/Normal/cat_0_533.jpg,Test,Normal,10
+Train/Normal/cat_0_9243.jpg,Train,Normal,Test/Cataract/cat_0_1483.jpg,Test,Cataract,12
+Train/Normal/cat_0_9162.jpg,Train,Normal,Test/Cataract/cat_0_9527.jpg,Test,Cataract,12
+Train/Normal/cat_0_9182.jpg,Train,Normal,Test/Normal/cat_0_6139.jpg,Test,Normal,10
+Train/Normal/cat_0_9242.jpg,Train,Normal,Test/Normal/cat_0_4076.jpg,Test,Normal,12
+Train/Normal/cat_0_9153.jpg,Train,Normal,Test/Normal/cat_0_1670.jpg,Test,Normal,12
+Train/Normal/cat_0_9403.jpg,Train,Normal,Test/Normal/cat_0_747.jpg,Test,Normal,12
+Train/Normal/cat_0_9325.jpg,Train,Normal,Test/Normal/cat_0_5443.jpg,Test,Normal,12
+Train/Normal/cat_0_9321.jpg,Train,Normal,Test/Normal/cat_0_3150.jpg,Test,Normal,12
+Train/Normal/cat_0_9605.jpg,Train,Normal,Test/Normal/cat_0_6174.jpg,Test,Normal,12
+Train/Normal/cat_0_9472.jpg,Train,Normal,Test/Normal/cat_0_1321.jpg,Test,Normal,12
+Train/Normal/cat_0_9593.jpg,Train,Normal,Test/Normal/cat_0_8285.jpg,Test,Normal,12
+Train/Normal/cat_0_9607.jpg,Train,Normal,Test/Normal/cat_0_5927.jpg,Test,Normal,12
+Train/Normal/cat_0_9658.jpg,Train,Normal,Test/Cataract/cat_0_429.jpg,Test,Cataract,12
+Train/Normal/cat_0_9739.jpg,Train,Normal,Test/Normal/cat_0_7263.jpg,Test,Normal,12
+Train/Normal/cat_0_9648.jpg,Train,Normal,Test/Normal/cat_0_2061.jpg,Test,Normal,12
+Train/Normal/cat_0_9789.jpg,Train,Normal,Test/Normal/cat_0_5635.jpg,Test,Normal,12
+Train/Normal/cat_0_9844.jpg,Train,Normal,Test/Normal/cat_0_6773.jpg,Test,Normal,10
+Train/Normal/cat_0_9914.jpg,Train,Normal,Test/Cataract/cat_0_9311.jpg,Test,Cataract,12
+Train/Normal/cat_0_9914.jpg,Train,Normal,Test/Normal/cat_0_7502.jpg,Test,Normal,12
+Train/Normal/cat_0_9990.jpg,Train,Normal,Test/Normal/cat_0_7502.jpg,Test,Normal,12
+Train/Normal/cat_0_3980.jpg,Train,Normal,Test/Normal/cat_0_9399.jpg,Test,Normal,10
+Train/Normal/cat_0_3921.jpg,Train,Normal,Test/Normal/cat_0_2611.jpg,Test,Normal,8
+Train/Normal/cat_0_4365.jpg,Train,Normal,Test/Normal/cat_0_9015.jpg,Test,Normal,12
+Train/Normal/cat_0_4491.jpg,Train,Normal,Test/Cataract/cat_0_4392.jpg,Test,Cataract,12
+Train/Normal/cat_0_4458.jpg,Train,Normal,Test/Normal/cat_0_1133.jpg,Test,Normal,12
+Train/Normal/cat_0_4469.jpg,Train,Normal,Test/Normal/cat_0_8997.jpg,Test,Normal,12
+Train/Normal/cat_0_4488.jpg,Train,Normal,Test/Normal/cat_0_6226.jpg,Test,Normal,12
+Train/Normal/cat_0_4582.jpg,Train,Normal,Test/Normal/cat_0_6064.jpg,Test,Normal,12
+Train/Normal/cat_0_4582.jpg,Train,Normal,Test/Normal/cat_0_7572.jpg,Test,Normal,12
+Train/Normal/cat_0_4566.jpg,Train,Normal,Test/Normal/cat_0_7291.jpg,Test,Normal,12
+Train/Normal/cat_0_4663.jpg,Train,Normal,Test/Normal/cat_0_505.jpg,Test,Normal,12
+Train/Normal/cat_0_4696.jpg,Train,Normal,Test/Normal/cat_0_8501.jpg,Test,Normal,12
+Train/Normal/cat_0_4707.jpg,Train,Normal,Test/Normal/cat_0_109.jpg,Test,Normal,12
+Train/Normal/cat_0_4707.jpg,Train,Normal,Test/Normal/cat_0_1414.jpg,Test,Normal,12
+Train/Normal/cat_0_4756.jpg,Train,Normal,Test/Cataract/cat_0_2014.jpg,Test,Cataract,12
+Train/Normal/cat_0_5009.jpg,Train,Normal,Test/Cataract/cat_0_8650.jpg,Test,Cataract,12
+Train/Normal/cat_0_5029.jpg,Train,Normal,Test/Normal/cat_0_3049.jpg,Test,Normal,12
+Train/Normal/cat_0_4934.jpg,Train,Normal,Test/Cataract/cat_0_2877.jpg,Test,Cataract,8
+Train/Normal/cat_0_5191.jpg,Train,Normal,Test/Cataract/cat_0_4760.jpg,Test,Cataract,10
+Train/Normal/cat_0_5045.jpg,Train,Normal,Test/Cataract/cat_0_3248.jpg,Test,Cataract,12
+Train/Normal/cat_0_5387.jpg,Train,Normal,Test/Normal/cat_0_3049.jpg,Test,Normal,12
+Train/Normal/cat_0_5375.jpg,Train,Normal,Test/Normal/cat_0_4730.jpg,Test,Normal,12
+Train/Normal/cat_0_5310.jpg,Train,Normal,Test/Normal/cat_0_332.jpg,Test,Normal,12
+Train/Normal/cat_0_5511.jpg,Train,Normal,Test/Cataract/cat_0_110.jpg,Test,Cataract,12
+Train/Normal/cat_0_5478.jpg,Train,Normal,Test/Normal/cat_0_1703.jpg,Test,Normal,12
+Train/Normal/cat_0_5492.jpg,Train,Normal,Test/Cataract/cat_0_6042.jpg,Test,Cataract,12
+Train/Normal/cat_0_5492.jpg,Train,Normal,Test/Normal/cat_0_7258.jpg,Test,Normal,12
+Train/Normal/cat_0_5525.jpg,Train,Normal,Test/Normal/cat_0_5225.jpg,Test,Normal,12
+Train/Normal/cat_0_5722.jpg,Train,Normal,Test/Not Eye/23e99b865d.jpg,Test,Not Eye,12
+Train/Normal/cat_0_5722.jpg,Train,Normal,Test/Not Eye/4b40be03b2.jpg,Test,Not Eye,12
+Train/Normal/cat_0_5634.jpg,Train,Normal,Test/Normal/cat_0_5354.jpg,Test,Normal,12
+Train/Normal/cat_0_5692.jpg,Train,Normal,Test/Normal/cat_0_2963.jpg,Test,Normal,10
+Train/Normal/cat_0_5601.jpg,Train,Normal,Test/Normal/cat_0_5109.jpg,Test,Normal,12
+Train/Normal/cat_0_5601.jpg,Train,Normal,Test/Normal/cat_0_8717.jpg,Test,Normal,10
+Train/Normal/cat_0_5866.jpg,Train,Normal,Test/Normal/cat_0_2061.jpg,Test,Normal,12
+Train/Normal/cat_0_5865.jpg,Train,Normal,Test/Normal/cat_0_1850.jpg,Test,Normal,10
+Train/Normal/cat_0_5918.jpg,Train,Normal,Test/Normal/cat_0_9399.jpg,Test,Normal,12
+Train/Normal/cat_0_5877.jpg,Train,Normal,Test/Normal/cat_0_3150.jpg,Test,Normal,12
+Train/Normal/cat_0_5785.jpg,Train,Normal,Test/Normal/cat_0_3049.jpg,Test,Normal,12
+Train/Normal/cat_0_5867.jpg,Train,Normal,Test/Normal/cat_0_320.jpg,Test,Normal,12
+Train/Normal/cat_0_6072.jpg,Train,Normal,Test/Normal/cat_0_5924.jpg,Test,Normal,12
+Train/Normal/cat_0_6045.jpg,Train,Normal,Test/Normal/cat_0_7206.jpg,Test,Normal,12
+Train/Normal/cat_0_6024.jpg,Train,Normal,Test/Cataract/cat_0_2104.jpg,Test,Cataract,12
+Train/Normal/cat_0_6024.jpg,Train,Normal,Test/Cataract/cat_0_5996.jpg,Test,Cataract,12
+Train/Normal/cat_0_5984.jpg,Train,Normal,Test/Normal/cat_0_8285.jpg,Test,Normal,12
+Train/Normal/cat_0_5999.jpg,Train,Normal,Test/Normal/cat_0_1041.jpg,Test,Normal,12
+Train/Normal/cat_0_6272.jpg,Train,Normal,Test/Normal/cat_0_5252.jpg,Test,Normal,12
+Train/Normal/cat_0_6205.jpg,Train,Normal,Test/Cataract/cat_0_6163.jpg,Test,Cataract,10
+Train/Normal/cat_0_6253.jpg,Train,Normal,Test/Normal/cat_0_6156.jpg,Test,Normal,12
+Train/Normal/cat_0_6134.jpg,Train,Normal,Test/Normal/cat_0_6916.jpg,Test,Normal,12
+Train/Normal/cat_0_6413.jpg,Train,Normal,Test/Normal/cat_0_1005.jpg,Test,Normal,10
+Train/Normal/cat_0_6373.jpg,Train,Normal,Test/Normal/cat_0_7532.jpg,Test,Normal,12
+Train/Normal/cat_0_6624.jpg,Train,Normal,Test/Normal/cat_0_9921.jpg,Test,Normal,12
+Train/Normal/cat_0_6638.jpg,Train,Normal,Test/Normal/cat_0_7739.jpg,Test,Normal,12
+Train/Normal/cat_0_6650.jpg,Train,Normal,Test/Normal/cat_0_8588.jpg,Test,Normal,12
+Train/Normal/cat_0_6821.jpg,Train,Normal,Test/Cataract/cat_0_6977.jpg,Test,Cataract,12
+Train/Normal/cat_0_6862.jpg,Train,Normal,Test/Normal/cat_0_6156.jpg,Test,Normal,12
+Train/Normal/cat_0_6750.jpg,Train,Normal,Test/Normal/cat_0_2061.jpg,Test,Normal,12
+Train/Normal/cat_0_6879.jpg,Train,Normal,Test/Normal/cat_0_9005.jpg,Test,Normal,12
+Train/Normal/cat_0_6906.jpg,Train,Normal,Test/Cataract/cat_0_5277.jpg,Test,Cataract,12
+Train/Normal/cat_0_692.jpg,Train,Normal,Test/Normal/cat_0_2055.jpg,Test,Normal,12
+Train/Normal/cat_0_746.jpg,Train,Normal,Test/Normal/cat_0_8258.jpg,Test,Normal,12
+Train/Normal/cat_0_691.jpg,Train,Normal,Test/Normal/cat_0_5924.jpg,Test,Normal,12
+Train/Normal/cat_0_78.jpg,Train,Normal,Test/Cataract/cat_0_5277.jpg,Test,Cataract,12
+Train/Normal/cat_0_93.jpg,Train,Normal,Test/Normal/cat_0_1041.jpg,Test,Normal,12
+Train/Normal/cat_0_9.jpg,Train,Normal,Test/Normal/cat_0_8399.jpg,Test,Normal,12
+Train/Normal/cat_0_1669.jpg,Train,Normal,Test/Normal/cat_0_6064.jpg,Test,Normal,12
+Train/Normal/cat_0_1751.jpg,Train,Normal,Test/Normal/cat_0_3255.jpg,Test,Normal,10
+Train/Normal/cat_0_1747.jpg,Train,Normal,Test/Normal/cat_0_1414.jpg,Test,Normal,10
+Train/Normal/cat_0_1747.jpg,Train,Normal,Test/Normal/cat_0_5610.jpg,Test,Normal,12
+Train/Normal/cat_0_1733.jpg,Train,Normal,Test/Normal/cat_0_234.jpg,Test,Normal,12
+Train/Normal/cat_0_1664.jpg,Train,Normal,Test/Normal/cat_0_9663.jpg,Test,Normal,10
+Train/Normal/cat_0_1776.jpg,Train,Normal,Test/Cataract/cat_0_1439.jpg,Test,Cataract,12
+Train/Normal/cat_0_1776.jpg,Train,Normal,Test/Normal/cat_0_133.jpg,Test,Normal,12
+Train/Normal/cat_0_1776.jpg,Train,Normal,Test/Normal/cat_0_8049.jpg,Test,Normal,12
+Train/Normal/cat_0_1883.jpg,Train,Normal,Test/Normal/cat_0_6900.jpg,Test,Normal,12
+Train/Normal/cat_0_1816.jpg,Train,Normal,Test/Normal/cat_0_8044.jpg,Test,Normal,12
+Train/Normal/cat_0_1791.jpg,Train,Normal,Test/Cataract/cat_0_9485.jpg,Test,Cataract,12
+Train/Normal/cat_0_1787.jpg,Train,Normal,Test/Normal/cat_0_687.jpg,Test,Normal,12
+Train/Normal/cat_0_1969.jpg,Train,Normal,Test/Normal/cat_0_5666.jpg,Test,Normal,12
+Train/Normal/cat_0_1978.jpg,Train,Normal,Test/Normal/cat_0_7001.jpg,Test,Normal,12
+Train/Normal/cat_0_2021.jpg,Train,Normal,Test/Normal/cat_0_1937.jpg,Test,Normal,12
+Train/Normal/cat_0_2021.jpg,Train,Normal,Test/Normal/cat_0_3833.jpg,Test,Normal,10
+Train/Normal/cat_0_2034.jpg,Train,Normal,Test/Cataract/cat_0_2002.jpg,Test,Cataract,12
+Train/Normal/cat_0_2127.jpg,Train,Normal,Test/Cataract/cat_0_8530.jpg,Test,Cataract,12
+Train/Normal/cat_0_2035.jpg,Train,Normal,Test/Cataract/cat_0_1955.jpg,Test,Cataract,12
+Train/Normal/cat_0_2035.jpg,Train,Normal,Test/Normal/cat_0_9005.jpg,Test,Normal,12
+Train/Normal/cat_0_2076.jpg,Train,Normal,Test/Normal/cat_0_9582.jpg,Test,Normal,8
+Train/Normal/cat_0_2177.jpg,Train,Normal,Test/Normal/cat_0_1145.jpg,Test,Normal,12
+Train/Normal/cat_0_2177.jpg,Train,Normal,Test/Normal/cat_0_3176.jpg,Test,Normal,12
+Train/Normal/cat_0_2242.jpg,Train,Normal,Test/Normal/cat_0_9582.jpg,Test,Normal,12
+Train/Normal/cat_0_2414.jpg,Train,Normal,Test/Normal/cat_0_4124.jpg,Test,Normal,10
+Train/Normal/cat_0_2413.jpg,Train,Normal,Test/Normal/cat_0_2211.jpg,Test,Normal,12
+Train/Normal/cat_0_2443.jpg,Train,Normal,Test/Normal/cat_0_7198.jpg,Test,Normal,12
+Train/Normal/cat_0_2355.jpg,Train,Normal,Test/Normal/cat_0_4674.jpg,Test,Normal,12
+Train/Normal/cat_0_2636.jpg,Train,Normal,Test/Normal/cat_0_1850.jpg,Test,Normal,10
+Train/Normal/cat_0_2584.jpg,Train,Normal,Test/Cataract/cat_0_1834.jpg,Test,Cataract,12
+Train/Normal/cat_0_2568.jpg,Train,Normal,Test/Normal/cat_0_4431.jpg,Test,Normal,12
+Train/Normal/cat_0_2526.jpg,Train,Normal,Test/Normal/cat_0_3150.jpg,Test,Normal,10
+Train/Normal/cat_0_2641.jpg,Train,Normal,Test/Normal/cat_0_1141.jpg,Test,Normal,10
+Train/Normal/cat_0_2605.jpg,Train,Normal,Test/Normal/cat_0_3550.jpg,Test,Normal,10
+Train/Normal/cat_0_2590.jpg,Train,Normal,Test/Normal/cat_0_1414.jpg,Test,Normal,8
+Train/Normal/cat_0_2628.jpg,Train,Normal,Test/Cataract/cat_0_3638.jpg,Test,Cataract,12
+Train/Normal/cat_0_2724.jpg,Train,Normal,Test/Normal/cat_0_3425.jpg,Test,Normal,12
+Train/Normal/cat_0_2829.jpg,Train,Normal,Test/Normal/cat_0_232.jpg,Test,Normal,10
+Train/Normal/cat_0_2767.jpg,Train,Normal,Test/Normal/cat_0_6566.jpg,Test,Normal,12
+Train/Normal/cat_0_2681.jpg,Train,Normal,Test/Normal/cat_0_3517.jpg,Test,Normal,12
+Train/Normal/cat_0_2889.jpg,Train,Normal,Test/Cataract/cat_0_2077.jpg,Test,Cataract,12
+Train/Normal/cat_0_3007.jpg,Train,Normal,Test/Normal/cat_0_9134.jpg,Test,Normal,10
+Train/Normal/cat_0_2918.jpg,Train,Normal,Test/Normal/cat_0_5172.jpg,Test,Normal,12
+Train/Normal/cat_0_3044.jpg,Train,Normal,Test/Cataract/cat_0_7816.jpg,Test,Cataract,12
+Train/Normal/cat_0_3147.jpg,Train,Normal,Test/Normal/cat_0_1378.jpg,Test,Normal,12
+Train/Normal/cat_0_3250.jpg,Train,Normal,Test/Normal/cat_0_2430.jpg,Test,Normal,12
+Train/Normal/cat_0_3178.jpg,Train,Normal,Test/Normal/cat_0_8669.jpg,Test,Normal,12
+Train/Normal/cat_0_3239.jpg,Train,Normal,Test/Cataract/cat_0_4352.jpg,Test,Cataract,12
+Train/Normal/cat_0_3263.jpg,Train,Normal,Test/Normal/cat_0_9822.jpg,Test,Normal,12
+Train/Normal/cat_0_3510.jpg,Train,Normal,Test/Normal/cat_0_6887.jpg,Test,Normal,12
+Train/Normal/cat_0_3407.jpg,Train,Normal,Test/Normal/cat_0_2983.jpg,Test,Normal,12
+Train/Normal/cat_0_3407.jpg,Train,Normal,Test/Normal/cat_0_8409.jpg,Test,Normal,10
+Train/Normal/cat_0_3452.jpg,Train,Normal,Test/Normal/cat_0_6814.jpg,Test,Normal,12
+Train/Normal/cat_0_3544.jpg,Train,Normal,Test/Normal/cat_0_6406.jpg,Test,Normal,12
+Train/Normal/cat_0_3686.jpg,Train,Normal,Test/Normal/cat_0_8588.jpg,Test,Normal,12
+Train/Normal/cat_0_3556.jpg,Train,Normal,Test/Normal/cat_0_620.jpg,Test,Normal,12
+Train/Normal/cat_0_3844.jpg,Train,Normal,Test/Normal/cat_0_2694.jpg,Test,Normal,12
+Train/Normal/cat_0_3871.jpg,Train,Normal,Test/Cataract/cat_0_1128.jpg,Test,Cataract,12
+Train/Normal/cat_0_3997.jpg,Train,Normal,Test/Normal/cat_0_6174.jpg,Test,Normal,12
+Train/Normal/cat_0_1001.jpg,Train,Normal,Test/Normal/cat_0_6139.jpg,Test,Normal,12
+Train/Normal/cat_0_1172.jpg,Train,Normal,Test/Normal/cat_0_137.jpg,Test,Normal,10
+Train/Normal/cat_0_1064.jpg,Train,Normal,Test/Not Eye/0cb6e08c3a.jpg,Test,Not Eye,12
+Train/Normal/cat_0_1231.jpg,Train,Normal,Test/Normal/cat_0_866.jpg,Test,Normal,12
+Train/Normal/cat_0_1231.jpg,Train,Normal,Test/Normal/cat_0_9582.jpg,Test,Normal,12
+Train/Normal/cat_0_139.jpg,Train,Normal,Test/Normal/cat_0_4886.jpg,Test,Normal,12
+Train/Normal/cat_0_1438.jpg,Train,Normal,Test/Normal/cat_0_27.jpg,Test,Normal,10
+Train/Normal/cat_0_1450.jpg,Train,Normal,Test/Not Eye/1a563b289c.jpg,Test,Not Eye,12
+Train/Normal/cat_0_1369.jpg,Train,Normal,Test/Normal/cat_0_8997.jpg,Test,Normal,12
+Train/Normal/cat_0_1342.jpg,Train,Normal,Test/Normal/cat_0_2611.jpg,Test,Normal,8
+Train/Normal/cat_0_1515.jpg,Train,Normal,Test/Normal/cat_0_5295.jpg,Test,Normal,12
+Train/Normal/cat_0_281.jpg,Train,Normal,Test/Normal/cat_0_6139.jpg,Test,Normal,10
+Train/Normal/cat_0_281.jpg,Train,Normal,Test/Not Eye/9dc355f3c3.jpg,Test,Not Eye,12
+Train/Normal/cat_0_196.jpg,Train,Normal,Test/Cataract/cat_0_5868.jpg,Test,Cataract,12
+Train/Normal/cat_0_403.jpg,Train,Normal,Test/Cataract/cat_0_8956.jpg,Test,Cataract,12
+Train/Normal/cat_0_387.jpg,Train,Normal,Test/Normal/cat_0_1211.jpg,Test,Normal,12
+Train/Normal/cat_0_36.jpg,Train,Normal,Test/Normal/cat_0_6043.jpg,Test,Normal,12
+Train/Normal/cat_0_362.jpg,Train,Normal,Test/Normal/cat_0_1124.jpg,Test,Normal,12
+Train/Normal/cat_0_362.jpg,Train,Normal,Test/Normal/cat_0_5391.jpg,Test,Normal,12
+Train/Normal/cat_0_362.jpg,Train,Normal,Test/Normal/cat_0_6485.jpg,Test,Normal,10
+Train/Not Eye/5c3295e87c.jpg,Train,Not Eye,Test/Not Eye/56a8eed2ec.jpg,Test,Not Eye,10
+Train/Not Eye/5ceedd4c76.jpg,Train,Not Eye,Test/Not Eye/0e2c7a076c.jpg,Test,Not Eye,10
+Train/Not Eye/6ad75400ec.jpg,Train,Not Eye,Test/Not Eye/0bdde55b39.jpg,Test,Not Eye,12
+Train/Not Eye/6b708f3d1f.jpg,Train,Not Eye,Test/Not Eye/0bbaf9ac9a.jpg,Test,Not Eye,10
+Train/Not Eye/7b459daf65.jpg,Train,Not Eye,Test/Cataract/cat_0_1899.jpg,Test,Cataract,12
+Train/Not Eye/7b0311a688.jpg,Train,Not Eye,Test/Normal/cat_0_5276.jpg,Test,Normal,12
+Train/Not Eye/7d73c03363.jpg,Train,Not Eye,Test/Normal/cat_0_6174.jpg,Test,Normal,10
+Train/Not Eye/7f8e0615e5.jpg,Train,Not Eye,Test/Not Eye/1b969e1b20.jpg,Test,Not Eye,12
+Train/Not Eye/7f1285c61d.jpg,Train,Not Eye,Test/Not Eye/2f88194623.jpg,Test,Not Eye,12
+Train/Not Eye/7fd14d6e5a.jpg,Train,Not Eye,Test/Not Eye/0bbaf9ac9a.jpg,Test,Not Eye,10
+Train/Not Eye/7f8ad586fa.jpg,Train,Not Eye,Test/Not Eye/1ffb5b0d6a.jpg,Test,Not Eye,12
+Train/Not Eye/8b8ae57d04.jpg,Train,Not Eye,Test/Normal/cat_0_7430.jpg,Test,Normal,12
+Train/Not Eye/8fdf5b11ab.jpg,Train,Not Eye,Test/Cataract/cat_0_2932.jpg,Test,Cataract,12
+Train/Not Eye/9ca0f99b72.jpg,Train,Not Eye,Test/Normal/cat_0_3670.jpg,Test,Normal,12
+Train/Not Eye/9f50481e75.jpg,Train,Not Eye,Test/Cataract/cat_0_1899.jpg,Test,Cataract,12
+Train/Not Eye/ed8c0f52c4.jpg,Train,Not Eye,Test/Not Eye/8aabefd3d2.jpg,Test,Not Eye,12
+Train/Not Eye/08a8cb6983.jpg,Train,Not Eye,Test/Cataract/cat_0_3603.jpg,Test,Cataract,12
+Train/Not Eye/09c456b877.jpg,Train,Not Eye,Test/Normal/cat_0_8480.jpg,Test,Normal,12
+Train/Not Eye/12a88bc3f3.jpg,Train,Not Eye,Test/Not Eye/59ca448d20.jpg,Test,Not Eye,12
+Train/Not Eye/17bd5d7493.jpg,Train,Not Eye,Test/Not Eye/33ba3f2bfb.jpg,Test,Not Eye,10
+Train/Not Eye/26e5f6ecea.jpg,Train,Not Eye,Test/Cataract/cat_0_5886.jpg,Test,Cataract,12
+Train/Not Eye/28af31112e.jpg,Train,Not Eye,Test/Normal/cat_0_6950.jpg,Test,Normal,12
+Train/Not Eye/3b14097741.jpg,Train,Not Eye,Test/Not Eye/0bbaf9ac9a.jpg,Test,Not Eye,10
+Train/Not Eye/3a028d5723.jpg,Train,Not Eye,Test/Not Eye/2fdc85da47.jpg,Test,Not Eye,12
+Train/Not Eye/3b6982147e.jpg,Train,Not Eye,Test/Not Eye/6e0a11570f.jpg,Test,Not Eye,12
+Train/Not Eye/3cf4d741c2.jpg,Train,Not Eye,Test/Normal/cat_0_6904.jpg,Test,Normal,12
+Train/Not Eye/3e7c8dd7d1.jpg,Train,Not Eye,Test/Normal/cat_0_6732.jpg,Test,Normal,12
+Train/Not Eye/45eb106269.jpg,Train,Not Eye,Test/Normal/cat_0_6174.jpg,Test,Normal,12
+Train/Not Eye/4b37a397df.jpg,Train,Not Eye,Test/Not Eye/1ffb5b0d6a.jpg,Test,Not Eye,12
+Train/Not Eye/4a4e427baf.jpg,Train,Not Eye,Test/Normal/cat_0_2205.jpg,Test,Normal,12
+Train/Not Eye/4d14f4450e.jpg,Train,Not Eye,Test/Not Eye/33ba3f2bfb.jpg,Test,Not Eye,12
+Train/Not Eye/4debb43e1b.jpg,Train,Not Eye,Test/Normal/cat_0_6885.jpg,Test,Normal,12
+Train/Not Eye/01b8d9568a.jpg,Train,Not Eye,Test/Cataract/cat_0_5534.jpg,Test,Cataract,12
+Train/Not Eye/03e7ef7b66.jpg,Train,Not Eye,Test/Normal/cat_0_7430.jpg,Test,Normal,12
+Train/Not Eye/0a46728e56.jpg,Train,Not Eye,Test/Normal/cat_0_9578.jpg,Test,Normal,12
+Train/Not Eye/0aff82ae15.jpg,Train,Not Eye,Test/Not Eye/33ba3f2bfb.jpg,Test,Not Eye,10
+Train/Not Eye/0dd0fc9c02.jpg,Train,Not Eye,Test/Cataract/cat_0_2587.jpg,Test,Cataract,12
+Train/Not Eye/0f4116d486.jpg,Train,Not Eye,Test/Cataract/cat_0_6664.jpg,Test,Cataract,12
+Train/Not Eye/1bf8104dcc.jpg,Train,Not Eye,Test/Cataract/cat_0_951.jpg,Test,Cataract,12
+Train/Not Eye/1e7e7ddffb.jpg,Train,Not Eye,Test/Not Eye/62e03c2b15.jpg,Test,Not Eye,12
+Train/Not Eye/2bbff54710.jpg,Train,Not Eye,Test/Not Eye/8aabefd3d2.jpg,Test,Not Eye,12
+Train/Not Eye/2e89a3158d.jpg,Train,Not Eye,Test/Normal/cat_0_6732.jpg,Test,Normal,12
+Train/Not Eye/2d6afa9288.jpg,Train,Not Eye,Test/Cataract/cat_0_3769.jpg,Test,Cataract,10
+Validation/Cataract/cat_0_1584.jpg,Validation,Cataract,Test/Normal/cat_0_1600.jpg,Test,Normal,12
+Validation/Cataract/cat_0_361.jpg,Validation,Cataract,Test/Cataract/cat_0_9090.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_479.jpg,Validation,Cataract,Test/Cataract/cat_0_5746.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_927.jpg,Validation,Cataract,Test/Normal/cat_0_7491.jpg,Test,Normal,12
+Validation/Cataract/cat_0_840.jpg,Validation,Cataract,Test/Normal/cat_0_9947.jpg,Test,Normal,12
+Validation/Cataract/cat_0_972.jpg,Validation,Cataract,Test/Normal/cat_0_8964.jpg,Test,Normal,12
+Validation/Cataract/cat_0_1862.jpg,Validation,Cataract,Test/Cataract/cat_0_4012.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_2330.jpg,Validation,Cataract,Test/Cataract/cat_0_4135.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_2860.jpg,Validation,Cataract,Test/Cataract/cat_0_1483.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_3067.jpg,Validation,Cataract,Test/Not Eye/1b244bc738.jpg,Test,Not Eye,12
+Validation/Cataract/cat_0_3067.jpg,Validation,Cataract,Test/Not Eye/2a3406913a.jpg,Test,Not Eye,12
+Validation/Cataract/cat_0_2912.jpg,Validation,Cataract,Test/Normal/cat_0_4546.jpg,Test,Normal,12
+Validation/Cataract/cat_0_3044.jpg,Validation,Cataract,Test/Cataract/cat_0_3961.jpg,Test,Cataract,10
+Validation/Cataract/cat_0_3378.jpg,Validation,Cataract,Test/Normal/cat_0_7988.jpg,Test,Normal,12
+Validation/Cataract/cat_0_3721.jpg,Validation,Cataract,Test/Cataract/cat_0_6543.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_4506.jpg,Validation,Cataract,Test/Cataract/cat_0_8666.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_4918.jpg,Validation,Cataract,Test/Normal/cat_0_6663.jpg,Test,Normal,12
+Validation/Cataract/cat_0_4819.jpg,Validation,Cataract,Test/Cataract/cat_0_2348.jpg,Test,Cataract,10
+Validation/Cataract/cat_0_5275.jpg,Validation,Cataract,Test/Cataract/cat_0_3919.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_5340.jpg,Validation,Cataract,Test/Normal/cat_0_441.jpg,Test,Normal,12
+Validation/Cataract/cat_0_5411.jpg,Validation,Cataract,Test/Cataract/cat_0_4766.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_5719.jpg,Validation,Cataract,Test/Normal/cat_0_7205.jpg,Test,Normal,12
+Validation/Cataract/cat_0_5715.jpg,Validation,Cataract,Test/Not Eye/8d15768f3d.jpg,Test,Not Eye,12
+Validation/Cataract/cat_0_5646.jpg,Validation,Cataract,Test/Cataract/cat_0_1514.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_5694.jpg,Validation,Cataract,Test/Cataract/cat_0_987.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_5689.jpg,Validation,Cataract,Test/Cataract/cat_0_7621.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_5689.jpg,Validation,Cataract,Test/Normal/cat_0_3833.jpg,Test,Normal,12
+Validation/Cataract/cat_0_6318.jpg,Validation,Cataract,Test/Cataract/cat_0_6541.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_6506.jpg,Validation,Cataract,Test/Cataract/cat_0_7862.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_7433.jpg,Validation,Cataract,Test/Cataract/cat_0_8465.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_7612.jpg,Validation,Cataract,Test/Not Eye/2af2913c6f.jpg,Test,Not Eye,12
+Validation/Cataract/cat_0_8013.jpg,Validation,Cataract,Test/Normal/cat_0_8844.jpg,Test,Normal,12
+Validation/Cataract/cat_0_8726.jpg,Validation,Cataract,Test/Cataract/cat_0_3926.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_8612.jpg,Validation,Cataract,Test/Cataract/cat_0_8636.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_8770.jpg,Validation,Cataract,Test/Normal/cat_0_9862.jpg,Test,Normal,12
+Validation/Cataract/cat_0_8990.jpg,Validation,Cataract,Test/Cataract/cat_0_8831.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_8909.jpg,Validation,Cataract,Test/Cataract/cat_0_497.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_9187.jpg,Validation,Cataract,Test/Cataract/cat_0_5093.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_9381.jpg,Validation,Cataract,Test/Cataract/cat_0_8649.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_9422.jpg,Validation,Cataract,Test/Cataract/cat_0_1735.jpg,Test,Cataract,12
+Validation/Cataract/cat_0_9613.jpg,Validation,Cataract,Test/Normal/cat_0_3833.jpg,Test,Normal,10
+Validation/Cataract/cat_0_9886.jpg,Validation,Cataract,Test/Cataract/cat_0_7273.jpg,Test,Cataract,12
+Validation/Normal/cat_0_1023.jpg,Validation,Normal,Test/Normal/cat_0_232.jpg,Test,Normal,10
+Validation/Normal/cat_0_295.jpg,Validation,Normal,Test/Normal/cat_0_3435.jpg,Test,Normal,12
+Validation/Normal/cat_0_295.jpg,Validation,Normal,Test/Normal/cat_0_9359.jpg,Test,Normal,12
+Validation/Normal/cat_0_1537.jpg,Validation,Normal,Test/Normal/cat_0_424.jpg,Test,Normal,12
+Validation/Normal/cat_0_479.jpg,Validation,Normal,Test/Normal/cat_0_300.jpg,Test,Normal,8
+Validation/Normal/cat_0_590.jpg,Validation,Normal,Test/Normal/cat_0_7218.jpg,Test,Normal,12
+Validation/Normal/cat_0_638.jpg,Validation,Normal,Test/Normal/cat_0_5666.jpg,Test,Normal,12
+Validation/Normal/cat_0_537.jpg,Validation,Normal,Test/Normal/cat_0_1570.jpg,Test,Normal,12
+Validation/Normal/cat_0_1714.jpg,Validation,Normal,Test/Normal/cat_0_1549.jpg,Test,Normal,12
+Validation/Normal/cat_0_1773.jpg,Validation,Normal,Test/Normal/cat_0_6773.jpg,Test,Normal,12
+Validation/Normal/cat_0_1918.jpg,Validation,Normal,Test/Normal/cat_0_9005.jpg,Test,Normal,12
+Validation/Normal/cat_0_2492.jpg,Validation,Normal,Test/Normal/cat_0_1145.jpg,Test,Normal,12
+Validation/Normal/cat_0_3071.jpg,Validation,Normal,Test/Normal/cat_0_7948.jpg,Test,Normal,12
+Validation/Normal/cat_0_3502.jpg,Validation,Normal,Test/Normal/cat_0_3425.jpg,Test,Normal,12
+Validation/Normal/cat_0_3440.jpg,Validation,Normal,Test/Normal/cat_0_1850.jpg,Test,Normal,12
+Validation/Normal/cat_0_3416.jpg,Validation,Normal,Test/Normal/cat_0_1378.jpg,Test,Normal,12
+Validation/Normal/cat_0_4263.jpg,Validation,Normal,Test/Normal/cat_0_3833.jpg,Test,Normal,12
+Validation/Normal/cat_0_4336.jpg,Validation,Normal,Test/Normal/cat_0_6732.jpg,Test,Normal,12
+Validation/Normal/cat_0_4632.jpg,Validation,Normal,Test/Normal/cat_0_9359.jpg,Test,Normal,12
+Validation/Normal/cat_0_4673.jpg,Validation,Normal,Test/Normal/cat_0_6795.jpg,Test,Normal,12
+Validation/Normal/cat_0_4864.jpg,Validation,Normal,Test/Cataract/cat_0_6104.jpg,Test,Cataract,12
+Validation/Normal/cat_0_4867.jpg,Validation,Normal,Test/Normal/cat_0_300.jpg,Test,Normal,12
+Validation/Normal/cat_0_5640.jpg,Validation,Normal,Test/Normal/cat_0_1154.jpg,Test,Normal,10
+Validation/Normal/cat_0_5640.jpg,Validation,Normal,Test/Normal/cat_0_7009.jpg,Test,Normal,12
+Validation/Normal/cat_0_5804.jpg,Validation,Normal,Test/Normal/cat_0_8588.jpg,Test,Normal,12
+Validation/Normal/cat_0_5963.jpg,Validation,Normal,Test/Normal/cat_0_9644.jpg,Test,Normal,10
+Validation/Normal/cat_0_6412.jpg,Validation,Normal,Test/Normal/cat_0_6115.jpg,Test,Normal,12
+Validation/Normal/cat_0_6412.jpg,Validation,Normal,Test/Normal/cat_0_9211.jpg,Test,Normal,10
+Validation/Normal/cat_0_6581.jpg,Validation,Normal,Test/Normal/cat_0_3691.jpg,Test,Normal,12
+Validation/Normal/cat_0_7040.jpg,Validation,Normal,Test/Normal/cat_0_1532.jpg,Test,Normal,12
+Validation/Normal/cat_0_6927.jpg,Validation,Normal,Test/Normal/cat_0_3517.jpg,Test,Normal,12
+Validation/Normal/cat_0_7615.jpg,Validation,Normal,Test/Normal/cat_0_6732.jpg,Test,Normal,12
+Validation/Normal/cat_0_7724.jpg,Validation,Normal,Test/Normal/cat_0_3517.jpg,Test,Normal,12
+Validation/Normal/cat_0_8070.jpg,Validation,Normal,Test/Normal/cat_0_5408.jpg,Test,Normal,12
+Validation/Normal/cat_0_8070.jpg,Validation,Normal,Test/Normal/cat_0_9314.jpg,Test,Normal,8
+Validation/Normal/cat_0_8299.jpg,Validation,Normal,Test/Normal/cat_0_6814.jpg,Test,Normal,10
+Validation/Normal/cat_0_8427.jpg,Validation,Normal,Test/Normal/cat_0_2799.jpg,Test,Normal,12
+Validation/Normal/cat_0_8416.jpg,Validation,Normal,Test/Normal/cat_0_3833.jpg,Test,Normal,12
+Validation/Normal/cat_0_8551.jpg,Validation,Normal,Test/Normal/cat_0_1475.jpg,Test,Normal,12
+Validation/Normal/cat_0_8660.jpg,Validation,Normal,Test/Normal/cat_0_8049.jpg,Test,Normal,10
+Validation/Normal/cat_0_8889.jpg,Validation,Normal,Test/Cataract/cat_0_9456.jpg,Test,Cataract,12
+Validation/Normal/cat_0_8870.jpg,Validation,Normal,Test/Normal/cat_0_972.jpg,Test,Normal,10
+Validation/Normal/cat_0_9147.jpg,Validation,Normal,Test/Normal/cat_0_3472.jpg,Test,Normal,12
+Validation/Normal/cat_0_9176.jpg,Validation,Normal,Test/Normal/cat_0_2912.jpg,Test,Normal,10
+Validation/Normal/cat_0_9143.jpg,Validation,Normal,Test/Normal/cat_0_3878.jpg,Test,Normal,10
+Validation/Normal/cat_0_9486.jpg,Validation,Normal,Test/Normal/cat_0_7796.jpg,Test,Normal,12
+Validation/Normal/cat_0_9828.jpg,Validation,Normal,Test/Cataract/cat_0_1038.jpg,Test,Cataract,12
+Validation/Not Eye/0d8674058e.jpg,Validation,Not Eye,Test/Normal/cat_0_5354.jpg,Test,Normal,12
+Validation/Not Eye/0e506ed4fc.jpg,Validation,Not Eye,Test/Not Eye/6f21bcc3db.jpg,Test,Not Eye,12
+Validation/Not Eye/009bf8eb7d.jpg,Validation,Not Eye,Test/Not Eye/21afae9ecf.jpg,Test,Not Eye,12
+Validation/Not Eye/44d72b98d2.jpg,Validation,Not Eye,Test/Not Eye/4f357649a9.jpg,Test,Not Eye,12
+Validation/Not Eye/43b0001737.jpg,Validation,Not Eye,Test/Cataract/cat_0_6650.jpg,Test,Cataract,12
+Validation/Not Eye/4b2fb87b8f.jpg,Validation,Not Eye,Test/Cataract/cat_0_701.jpg,Test,Cataract,10
+Validation/Not Eye/7bf0e5213a.jpg,Validation,Not Eye,Test/Cataract/cat_0_701.jpg,Test,Cataract,10

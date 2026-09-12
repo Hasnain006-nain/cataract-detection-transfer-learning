@@ -1,0 +1,101 @@
+run_index,class,filepath
+0,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_10.jpg
+1,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_100.jpg
+2,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1000.jpg
+3,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1002.jpg
+4,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1004.jpg
+5,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1006.jpg
+6,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1007.jpg
+7,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1008.jpg
+8,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_101.jpg
+9,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1011.jpg
+10,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1012.jpg
+11,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1016.jpg
+12,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1019.jpg
+13,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_102.jpg
+14,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1020.jpg
+15,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1022.jpg
+16,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1025.jpg
+17,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1027.jpg
+18,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_103.jpg
+19,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1031.jpg
+20,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1032.jpg
+21,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1033.jpg
+22,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1037.jpg
+23,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1038.jpg
+24,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1039.jpg
+25,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_104.jpg
+26,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1040.jpg
+27,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1041.jpg
+28,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1044.jpg
+29,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1049.jpg
+30,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_105.jpg
+31,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1050.jpg
+32,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1052.jpg
+33,Cataract,/content/drive/MyDrive/Cataract/Data/Test/Cataract/cat_0_1054.jpg
+34,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_0.jpg
+35,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1.jpg
+36,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_10.jpg
+37,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1001.jpg
+38,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1002.jpg
+39,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1003.jpg
+40,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1005.jpg
+41,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1007.jpg
+42,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1008.jpg
+43,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1009.jpg
+44,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_101.jpg
+45,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1010.jpg
+46,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1011.jpg
+47,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1012.jpg
+48,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1013.jpg
+49,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1014.jpg
+50,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1015.jpg
+51,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1017.jpg
+52,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_102.jpg
+53,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1020.jpg
+54,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1021.jpg
+55,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1022.jpg
+56,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1023.jpg
+57,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1024.jpg
+58,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1025.jpg
+59,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1026.jpg
+60,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1027.jpg
+61,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_103.jpg
+62,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1030.jpg
+63,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1031.jpg
+64,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1032.jpg
+65,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1033.jpg
+66,Normal,/content/drive/MyDrive/Cataract/Data/Test/Normal/cat_0_1035.jpg
+67,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/000c3b0a6a.jpg
+68,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/001c2203a4.jpg
+69,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/002c57eb72.jpg
+70,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/00a258a357.jpg
+71,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/00a3969131.jpg
+72,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/00a5324fe8.jpg
+73,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/00ab643520.jpg
+74,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/00bdc2d18a.jpg
+75,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/00cf330f1d.jpg
+76,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/00d4263b19.jpg
+77,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/00dd586fe7.jpg
+78,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/00df26e2ac.jpg
+79,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/00ed35e838.jpg
+80,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/00eda07739.jpg
+81,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/00f66867e6.jpg
+82,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/00fce13f41.jpg
+83,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/01a38447ad.jpg
+84,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/01b8d9568a.jpg
+85,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/01ba86f373.jpg
+86,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/01c8f6c64b.jpg
+87,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/01dbccf36f.jpg
+88,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/01e577eea5.jpg
+89,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/01e889cf43.jpg
+90,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/01eaebcbec.jpg
+91,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/01ec1c5873.jpg
+92,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/01ee118b53.jpg
+93,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/01ef25ec7d.jpg
+94,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/01fe6cca57.jpg
+95,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/02a017ceef.jpg
+96,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/02a23f13f0.jpg
+97,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/02a38ee57e.jpg
+98,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/02aac1d589.jpg
+99,Not Eye,/content/drive/MyDrive/Cataract/Data/Test/Not Eye/02af2134f3.jpg

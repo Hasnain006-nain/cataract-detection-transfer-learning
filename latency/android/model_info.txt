@@ -1,0 +1,4 @@
+Model file: MobileNetV2_LastBlock_float32.tflite
+Bytes: 10400328
+Decimal MB: 10.4003
+MiB: 9.9185

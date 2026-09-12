@@ -1,0 +1,7 @@
+{
+  "Recommended_Deployment_Checkpoint": "LastBlock",
+  "Clinical_Accuracy_Gain_pp_LastBlock_vs_Frozen": 0.49160000000000315,
+  "Latency_Delta_pct_LastBlock_vs_Frozen": -3.1056940526855903,
+  "TFLite_Size_Delta_pct_LastBlock_vs_Frozen": 0.0,
+  "Reason": "The last-block fine-tuned MobileNetV2 provides higher locked clinical and three-class accuracy while retaining the same MobileNetV2 deployment architecture, with no material TFLite size or controlled-latency penalty."
+}

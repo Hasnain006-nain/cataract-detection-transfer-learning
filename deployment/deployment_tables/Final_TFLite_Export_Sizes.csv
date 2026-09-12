@@ -1,0 +1,3 @@
+Condition,keras_path,keras_size_bytes,keras_size_mb,tflite_path,tflite_size_bytes,tflite_size_mb,tflite_to_keras_size_ratio
+Frozen,/content/drive/MyDrive/Cataract/FINAL_REVISION_2026_08/reviewer_10_2_clean_split/MobileNetV2_frozen/best.keras,14281145,13.619561195373535,/content/drive/MyDrive/Cataract/FINAL_REVISION_2026_08/final_deployment_lock/tflite/MobileNetV2_Frozen_float32.tflite,10400328,9.918525695800781,0.7282558926472632
+LastBlock,/content/drive/MyDrive/Cataract/FINAL_REVISION_2026_08/reviewer_10_2_clean_split/MobileNetV2_last_block/best.keras,21378375,20.388007164001465,/content/drive/MyDrive/Cataract/FINAL_REVISION_2026_08/final_deployment_lock/tflite/MobileNetV2_LastBlock_float32.tflite,10400328,9.918525695800781,0.48648823869915275

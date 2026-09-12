@@ -1,0 +1,4 @@
+Exact pairwise McNemar tests were performed on the 2,587-image three-class test set, with Holm–Bonferroni correction across 10 pairwise comparisons.
+Pairwise DeLong tests were performed on the 1,831-image Cataract-v-Normal clinical subset, with Holm–Bonferroni correction across 10 pairwise comparisons.
+After Holm correction, 1 of 10 McNemar comparisons remained significant.
+After Holm correction, 0 of 10 DeLong comparisons remained significant.

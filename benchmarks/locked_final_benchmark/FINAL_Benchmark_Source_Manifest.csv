@@ -1,0 +1,6 @@
+Model,FinalBaselineSourceFolder,Configuration
+MobileNetV2,/content/drive/MyDrive/Cataract/FINAL_REVISION_2026_08/reviewer_10_2_clean_split/MobileNetV2_frozen,Fully frozen ImageNet backbone + fully trainable matched classification head
+DenseNet201,/content/drive/MyDrive/Cataract/FINAL_REVISION_2026_08/reviewer_10_2_clean_split/DenseNet201_frozen,Fully frozen ImageNet backbone + fully trainable matched classification head
+InceptionResNetV2,/content/drive/MyDrive/Cataract/FINAL_REVISION_2026_08/clean_split_models/InceptionResNetV2_CORRECTED_13Layer_Frozen,Fully frozen ImageNet backbone + fully trainable matched classification head
+ResNet152V2,/content/drive/MyDrive/Cataract/FINAL_REVISION_2026_08/clean_split_models/ResNet152V2,Fully frozen ImageNet backbone + fully trainable matched classification head
+Xception,/content/drive/MyDrive/Cataract/FINAL_REVISION_2026_08/clean_split_models/Xception,Fully frozen ImageNet backbone + fully trainable matched classification head

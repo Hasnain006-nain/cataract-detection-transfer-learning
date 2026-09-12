@@ -1,0 +1,6 @@
+Case,row_index,filepath,True_Class,Predicted_Class,Predicted_Class_Probability,GradCAM_Target_Layer,Heatmap_Min,Heatmap_Max,Heatmap_Mean
+Correct_Cataract_HighConfidence,376,/content/drive/MyDrive/Cataract/Data_Clean_LeakageControlled_FINAL/Test/Cataract/cat_0_5025.jpg,Cataract,Cataract,0.999930739402771,out_relu,0.0,1.0,0.2161063402891159
+Correct_Normal_HighConfidence,1557,/content/drive/MyDrive/Cataract/Data_Clean_LeakageControlled_FINAL/Test/Normal/cat_0_7438.jpg,Normal,Normal,0.9999713897705078,out_relu,0.0,1.0,0.263533353805542
+Cataract_Failure,114,/content/drive/MyDrive/Cataract/Data_Clean_LeakageControlled_FINAL/Test/Cataract/cat_0_21.jpg,Cataract,Normal,0.995160698890686,out_relu,0.0,1.0,0.2313055694103241
+Normal_Failure,979,/content/drive/MyDrive/Cataract/Data_Clean_LeakageControlled_FINAL/Test/Normal/cat_0_2068.jpg,Normal,Cataract,0.9964033365249634,out_relu,0.0,1.0,0.08555734157562256
+Difficult_Correct_Clinical,1589,/content/drive/MyDrive/Cataract/Data_Clean_LeakageControlled_FINAL/Test/Normal/cat_0_7783.jpg,Normal,Normal,0.5050541162490845,out_relu,0.0,1.0,0.18555201590061188

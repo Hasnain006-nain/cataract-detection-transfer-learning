@@ -1,0 +1,2 @@
+Model,N_eye_images,Accuracy,Sensitivity,Specificity,AUC,TP,FN,TN,FP
+MobileNetV2,1600,0.99375,0.99375,0.99375,0.9998921875,795,5,795,5

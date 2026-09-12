@@ -1,0 +1,6 @@
+Final scientifically valid five-model frozen-backbone benchmark assembled successfully.
+Dataset: Data_Clean_LeakageControlled_FINAL
+Seed: 42
+Test N: 2587
+Clinical N: 1831
+Bootstrap CI replicates: 5000

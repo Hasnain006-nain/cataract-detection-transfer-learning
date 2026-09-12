@@ -1,0 +1,6 @@
+Case,row_index,filepath,y_true,y_pred,confidence,true_probability,correct,True_Class,Predicted_Class
+Correct_Cataract_HighConfidence,376,/content/drive/MyDrive/Cataract/Data_Clean_LeakageControlled_FINAL/Test/Cataract/cat_0_5025.jpg,0,0,0.99993074,0.99993074,True,Cataract,Cataract
+Correct_Normal_HighConfidence,1557,/content/drive/MyDrive/Cataract/Data_Clean_LeakageControlled_FINAL/Test/Normal/cat_0_7438.jpg,1,1,0.9999714,0.9999714,True,Normal,Normal
+Cataract_Failure,114,/content/drive/MyDrive/Cataract/Data_Clean_LeakageControlled_FINAL/Test/Cataract/cat_0_21.jpg,0,1,0.9951607,0.0043397117,False,Cataract,Normal
+Normal_Failure,979,/content/drive/MyDrive/Cataract/Data_Clean_LeakageControlled_FINAL/Test/Normal/cat_0_2068.jpg,1,0,0.99640334,0.003336489,False,Normal,Cataract
+Difficult_Correct_Clinical,1589,/content/drive/MyDrive/Cataract/Data_Clean_LeakageControlled_FINAL/Test/Normal/cat_0_7783.jpg,1,1,0.5050541,0.5050541,True,Normal,Normal

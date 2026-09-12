@@ -1,0 +1,8 @@
+{
+  "input_v2_images": 13624,
+  "manifest_rows": 13624,
+  "final_included_images": 13610,
+  "quarantined_images": 14,
+  "confirmed_edges_crossing_final": 0,
+  "exact_sha_groups_crossing_final": 0
+}
